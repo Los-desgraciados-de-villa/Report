@@ -25,6 +25,7 @@ Desarrollo de Aplicaciones Open Source<br>
 | | |
 |Miguel Ángel Junior Román López |u202212897 |
 |Franco Mauricio López |u202315890 |
+|Jhordi Luis Carranza Pérez |u20191e835|
 | | |
 
 </div>
