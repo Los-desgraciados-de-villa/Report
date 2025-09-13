@@ -174,3 +174,77 @@ La plataforma propuesta ofrecerá un sistema web que centraliza la generación, 
 2. La implementación de un sistema seguro de emisión reducirá la incidencia de fraudes y manipulaciones documentales, fortaleciendo la confianza en el mercado inmobiliario y disminuyendo la probabilidad de conflictos legales.
 
 3. Se espera que la solución digital contribuya a mejorar la transparencia, competitividad y eficiencia en las operaciones del sector inmobiliario, incentivando un mayor dinamismo en el mercado y facilitando la toma de decisiones más rápidas y seguras por parte de las partes interesadas.
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+- Hipótesis 1: Confianza en transacciones**  
+  Creemos que al ofrecer certificados digitales sobre el estado de inmuebles a compradores o arrendatarios  
+  Para personas interesadas en adquirir o alquilar propiedades en zonas urbanas  
+  Se logrará mayor confianza y seguridad en sus decisiones de compra o alquiler.  
+  Sabremos que tendremos éxito cuando al menos un cierto porcentaje de los usuarios reportan que el certificado fue determinante en su decisión.
+
+- Hipótesis 2: Reducción de fraudes**  
+  Creemos que al establecer la información ya sea técnica, legal y estructural de un inmueble en un certificado verificado  
+  Para arrendatarios y compradores  
+  Se logrará una disminución de casos de fraude inmobiliario y conflictos legales.  
+  Sabremos que tendremos éxito cuando se registre una reducción en los reclamos que estén relacionados a la información falsa o incompleta.
+
+- Hipótesis 3: Eficiencia de trámites**  
+  Creemos que al digitalizar la emisión de certificados de estado de inmuebles  
+  Para instituciones tales como las notarías, municipalidades y bancos  
+  Se logrará una reducción considerable en tiempos de gestión y costos de administración.  
+  Sabremos que tendremos éxito cuando el tiempo promedio de verificación documental disminuya.
+
+- Hipótesis 4: Aceptación institucional**  
+  Creemos que al garantizar la autenticidad de los certificados mediante registros y firmas digitales  
+  Para entidades financieras y notariales  
+  Se logrará la adopción de los certificados como documentos válidos en procesos de crédito hipotecario y formalización de contratos.  
+  Sabremos que tendremos éxito cuando las instituciones adopten oficialmente el uso de certificados en el primer año.
+
+- Hipótesis 5: Experiencia del usuario**  
+  Creemos que al diseñar una plataforma web simple y accesible para generar y gestionar certificados  
+  Para usuarios sin conocimientos técnicos avanzados  
+  Se logrará una mayor satisfacción y recurrencia en el uso de la plataforma.  
+  Sabremos que tendremos éxito cuando el índice de satisfacción del usuario sea considerablemente alto.
+
+
+#### 1.2.2.4. Lean UX Canvas
+<p align="center">
+  <img src="Imagenes/Canvas.png" alt="Lean UX Canvas" />
+</p>
+
+
+## 1.3. Segmentos Objetivos
+
+A continuación se describen los dos segmentos objetivos principales para CertiInmueble, incluyendo características demográficas relevantes y datos estadísticos de respaldo:
+
+### Segmento Objetivo 1: Propietarios de inmuebles
+
+**Características demográficas:**
+
+- Personas adultas entre **35 y 60 años**, dueños de uno o más inmuebles.  
+- Nivel socioeconómico medio-alto a alto, con capacidad para invertir en mantenimiento o certificaciones de su inmueble.  
+- Localizados principalmente en zonas urbanas de Lima u otras grandes ciudades del Perú, con interés en formalización legal del inmueble.  
+- Sexo indistinto, aunque estudios muestran que en compras de vivienda, los hombres y mujeres participan, pero en decisiones de propiedad suelen estar involucradas parejas o familias.  
+
+**Información estadística de sustento:**
+
+- En un estudio “Perfil del comprador inmobiliario 2024”, los Millennials (28-40 años aproximadamente) representan el **50% de los compradores** de viviendas en Perú, seguidos por la Generación X con ~33 % del mercado. ([pqs.pe](https://pqs.pe/actualidad/perfil-del-comprador-inmobiliario-2024-el-83-del-mercado-esta-concentrado-en-millennials-y-generacion-x/?utm_source=chatgpt.com))  
+- De las compras residenciales, ~63 % se destinan a vivienda principal; de este grupo, ~38 % de compradores migran de ser arrendatarios a propietarios. ([pqs.pe](https://pqs.pe/actualidad/perfil-del-comprador-inmobiliario-2024-el-83-del-mercado-esta-concentrado-en-millennials-y-generacion-x/?utm_source=chatgpt.com))  
+
+### Segmento Objetivo 2: Agentes inmobiliarios y profesionales intermediarios
+
+**Características demográficas:**
+
+- Profesionales dedicados a la intermediación de compra, venta o alquiler de inmuebles (agentes inmobiliarios, corredores).  
+- Edad entre **30 y 55 años**, con experiencia en el mercado local, buen dominio de procesos legales básicos, al menos nivel educativo técnico o superior.  
+- Operan en zonas urbanas y suelen trabajar con varios clientes simultáneamente, gestionando documentación, visitas, contratos y trámites legales.  
+- Interés en agilizar trámites, reducir riesgos legales, garantizar la transparencia con sus clientes para mejorar su reputación y oferta de valor.
+
+**Información estadística de sustento:**
+
+- En el mismo estudio “Perfil del comprador inmobiliario 2024”, se reporta que una parte significativa de los compradores residenciales están dejando de arrendar para adquirir propiedades, lo que implica demanda liderada por quienes ya conocen procesos inmobiliarios o para quienes intermediarios tienen presencia. ([pqs.pe](https://pqs.pe/actualidad/perfil-del-comprador-inmobiliario-2024-el-83-del-mercado-esta-concentrado-en-millennials-y-generacion-x/?utm_source=chatgpt.com))  
+- El mercado inmobiliario en Lima muestra que los precios por m² varían mucho según distrito, lo cual motiva a profesionales inmobiliarios a querer certificados fiables para sustentar valoraciones y negociaciones. Datos del Banco Central de Reserva del Perú muestran series de precios por m² en distritos en Lima (Barranco, Miraflores, La Molina, etc.).  
+
+<img width="468" height="640" alt="image" src="https://github.com/user-attachments/assets/ec740318-9a4d-449b-a725-532441944372" />
+
