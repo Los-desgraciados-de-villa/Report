@@ -1,7 +1,7 @@
  # **COURSE PROJECT**
 
 <p align="center">
-  <img src="Imagenes/upc_logo.png" alt="Logo de la UPC" />
+  <img width="300" height="168" alt="descarga" src="https://github.com/user-attachments/assets/a68633de-e8f0-4414-8f98-6dc2c04c4864" />
 </p>
 
 <p align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></p>
