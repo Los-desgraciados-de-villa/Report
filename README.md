@@ -8,7 +8,7 @@
 
 <p align="center"><strong>Ingeniería de Software</strong><br>
 Desarrollo de Aplicaciones Open Source<br>
-<strong>Profesor:</strong> Rafael Castro Veramendi</p>
+<strong>Profesor:</strong> Oscar Ivan Villafuerte Bazan</p>
 
 <h2 align="center">INFORME</h2>
 
