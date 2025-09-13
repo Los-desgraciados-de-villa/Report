@@ -210,8 +210,9 @@ La plataforma propuesta ofrecerá un sistema web que centraliza la generación, 
 
 #### 1.2.2.4. Lean UX Canvas
 <p align="center">
-  <img src="Imagenes/Canvas.png" alt="Lean UX Canvas" />
+  <img width="1920" height="1080" alt="Canvas" src="https://github.com/user-attachments/assets/556c2552-6ca6-4ced-b8ca-d7350015bde8" />
 </p>
+
 
 
 ## 1.3. Segmentos Objetivos
