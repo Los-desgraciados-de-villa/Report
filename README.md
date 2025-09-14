@@ -21,8 +21,7 @@ Desarrollo de Aplicaciones Open Source<br>
 
 | **Member**                           | **Code**     |
 |--------------------------------------|--------------|
-| | |
-| | |
+|Joaquin Enrique Carranza Tesén |u20191b935 |
 |Miguel Ángel Junior Román López |u202212897 |
 |Franco Mauricio López |u202315890 |
 |Jhordi Luis Carranza Pérez |u20191e835|
