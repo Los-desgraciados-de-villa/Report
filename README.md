@@ -61,60 +61,60 @@ Para poder valorar mejor la propuesta solución planteada a esta problemática, 
   <tr>
     <td rowspan="3" align="center"><strong>Perfil del Producto</strong></td>
     <td align="center"><strong>Productos & Servicios</strong></td>
-    <td align="center">Gestión avanzada de tiempo con sensores IoT, análisis de productividad con IA, facturación inteligente, integración con asistentes de voz.</td>
-    <td align="center">Seguimiento, informes, API, multiplataforma.</td>
-    <td align="center">Seguimiento + facturación, proyectos, informes.</td>
-    <td align="center">Seguimiento automático, bloqueo de apps, análisis.</td>
-    <td align="center">Monitoreo, análisis, productividad, multiplataforma.</td>
+    <td align="center">Certificados digitales verificables con fotos, checklist técnico-legal y firma electrónica.</td>
+    <td align="center">Inspección física de viviendas, checklist de acabados e instalaciones.</td>
+    <td align="center">Evaluaciones estructurales, reforzamientos, patología de fallas.</td>
+    <td align="center">Tasaciones de inmuebles, valorizaciones, supervisión de obras.</td>
+    <td align="center">Saneamiento físico-legal, regularización de propiedades, expedientes técnicos.</td>
   </tr>
   <tr>
     <td align="center"><strong>Precios & Costos</strong></td>
-    <td align="center">Modelo freemium, suscripción mensual por empleado y módulos para empresas, planes premium para freelancers.</td>
-    <td align="center">Gratis básico / Desde $3.99 por usuario.</td>
-    <td align="center">Desde $12 por usuario.</td>
-    <td align="center">Desde $6.50 individual / $6 empresarial.</td>
-    <td align="center">Gratis limitado / Desde $9 por usuario.</td>
+    <td align="center">Modelo freemium: certificado básico gratuito + planes premium (con validación avanzada, integración con notarios).</td>
+    <td align="center">Pago por inspección (precio accesible para clientes individuales).</td>
+    <td align="center">Costos elevados según alcance (diagnósticos y reforzamientos).</td>
+    <td align="center">Tarifas variables, orientadas a empresas e instituciones financieras.</td>
+    <td align="center">Honorarios por servicios legales/técnicos, costo según complejidad.</td>
   </tr>
   <tr>
     <td align="center"><strong>Canales Web y Móvil</strong></td>
-    <td align="center">Web, iOS, Android, escritorio, integración con dispositivos IoT y asistentes de voz.</td>
-    <td align="center">Web, iOS, Android, escritorio, extensión.</td>
-    <td align="center">Web, iOS, Android, escritorio.</td>
-    <td align="center">Web, iOS, Android, escritorio.</td>
-    <td align="center">Web, iOS, Android, escritorio.</td>
+    <td align="center">App móvil (iOS/Android) + plataforma web con historial digital y acceso en línea a certificados.</td>
+    <td align="center">Página web y reservas online, informes entregados en PDF.</td>
+    <td align="center">Web corporativa, atención presencial y por encargo.</td>
+    <td align="center">Web institucional, servicios presenciales, informes digitales.</td>
+    <td align="center">Web y atención presencial, coordinación con municipalidades.</td>
   </tr>
   <tr>
     <td rowspan="4" align="center"><strong>SWOT</strong></td>
     <td align="center"><strong>Fortalezas</strong></td>
-    <td align="center">Integración avanzada con IoT e IA, doble enfoque para empresas y freelancers, automatización inteligente.</td>
-    <td align="center">Gratis, escalable, API potente.</td>
-    <td align="center">Facturación y seguimiento integrados.</td>
-    <td align="center">Seguimiento automático, análisis personal.</td>
-    <td align="center">IA para análisis de productividad.</td>
+    <td align="center">Digital, rápida, con trazabilidad y acceso en línea.</td>
+    <td align="center">Especialización en inspecciones prácticas y fáciles de entender.</td>
+    <td align="center">Alta especialización en estructuras complejas.</td>
+    <td align="center">Reconocimiento oficial y credibilidad ante bancos.</td>
+    <td align="center">Cobertura integral legal + técnica.</td>
   </tr>
   <tr>
     <td align="center"><strong>Oportunidades</strong></td>
-    <td align="center">Expansión en mercados empresariales y freelancers, alianzas con coworkings y plataformas IoT.</td>
-    <td align="center">Ampliar integraciones con CRMs.</td>
-    <td align="center">Adición de IA para informes inteligentes.</td>
-    <td align="center">Integrarse con herramientas de bienestar.</td>
-    <td align="center">Automatizar más procesos con IA.</td>
+    <td align="center">Crecimiento de la digitalización inmobiliaria y demanda de confianza en compraventa.</td>
+    <td align="center">Crecimiento del mercado de alquileres y compras de vivienda.</td>
+    <td align="center">Demanda de diagnósticos post-sismo o en edificaciones antiguas.</td>
+    <td align="center">Expansión con fintech e hipotecas digitales.</td>
+    <td align="center">Demanda de formalización y saneamiento en Perú.</td>
   </tr>
   <tr>
     <td align="center"><strong>Debilidades</strong></td>
-    <td align="center">Complejidad inicial, posible resistencia a sensores IoT, privacidad y adopción.</td>
-    <td align="center">Falta de funciones avanzadas.</td>
-    <td align="center">Curva de aprendizaje para nuevos usuarios.</td>
-    <td align="center">Privacidad puede ser un problema.</td>
-    <td align="center">Complejidad para usuarios pequeños.</td>
+    <td align="center">Empresa nueva sin reputación inicial.</td>
+    <td align="center">No cubre aspectos legales ni estructurales.</td>
+    <td align="center">Alto costo, limitado a proyectos grandes.</td>
+    <td align="center">Servicios orientados más a empresas que a individuos.</td>
+    <td align="center">Procesos largos y presenciales, poca digitalización.</td>
   </tr>
   <tr>
     <td align="center"><strong>Amenazas</strong></td>
-    <td align="center">Preocupaciones por privacidad, competencia con grandes plataformas consolidadas.</td>
-    <td align="center">Entrada de nuevas herramientas gratuitas.</td>
-    <td align="center">Competidores con mejores precios.</td>
-    <td align="center">Cambios en políticas de privacidad.</td>
-    <td align="center">Regulaciones de privacidad laboral.</td>
+    <td align="center">Regulaciones legales o barreras de entrada para validación oficial.</td>
+    <td align="center">Competencia de startups digitales similares.</td>
+    <td align="center">Nuevas tecnologías de monitoreo estructural más accesibles.</td>
+    <td align="center">Entrada de competidores internacionales digitales.</td>
+    <td align="center">Avances en plataformas legales online que simplifiquen trámites.</td>
   </tr>
 </table>
 
