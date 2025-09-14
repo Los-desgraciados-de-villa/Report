@@ -35,28 +35,28 @@ Para poder valorar mejor la propuesta solución planteada a esta problemática, 
   </tr>
   <tr>
     <td align="center"><strong>Ventaja Competitiva</strong></td>
-    <td align="center">Automatización con sensores IoT, análisis en tiempo real, integración con asistentes de voz y facturación inteligente para freelancers.</td>
-    <td align="center">Gratis, fácil de usar, API para integraciones.</td>
-    <td align="center">Facturación integrada, ideal para PYMEs.</td>
-    <td align="center">Seguimiento automático, bloqueo de distracciones, metas.</td>
-    <td align="center">Análisis de productividad con IA, paneles personalizables.</td>
+    <td align="center">Certificados digitales rápidos y transparentes, integrando aspectos técnicos, legales y fotográficos en una sola plataforma, accesible en cualquier momento.</td>
+    <td align="center">Reportes sencillos, orientados a compradores e inquilinos; útil en la recepción de viviendas.</td>
+    <td align="center">Alta especialización técnica en estructuras, capaz de diagnosticar problemas complejos.</td>
+    <td align="center">Reconocimiento y confianza ante bancos e instituciones financieras; credibilidad formal.</td>
+    <td align="center">Solución integral legal-técnica, agiliza la regularización de predios.</td>
   </tr>
   <tr>
     <td rowspan="2" align="center"><strong>Perfil del Marketing</strong></td>
     <td align="center"><strong>Mercado Objetivo</strong></td>
-    <td align="center">Empresas medianas y grandes, freelancers y profesionales independientes.</td>
-    <td align="center">Equipos de cualquier tamaño.</td>
-    <td align="center">PYMEs con enfoque en facturación.</td>
-    <td align="center">Usuarios que buscan mejorar su productividad.</td>
-    <td align="center">Empresas medianas y grandes.</td>
+    <td align="center">Compradores, vendedores, inmobiliarias y notarios que requieren un certificado confiable y rápido</td>
+    <td align="center">Compradores e inquilinos de viviendas nuevas o usadas.</td>
+    <td align="center">Empresas constructoras, inmobiliarias y dueños de inmuebles con problemas estructurales.</td>
+    <td align="center">Bancos, financieras, aseguradoras y constructoras.</td>
+    <td align="center">Propietarios que buscan regularizar predios, municipalidades, inmobiliarias.</td>
   </tr>
   <tr>
     <td align="center"><strong>Estrategias de Marketing</strong></td>
-    <td align="center">Campañas B2B, LinkedIn, convenios con coworkings y ferias tecnológicas, enfoque en demos y onboarding.</td>
-    <td align="center">Blog, recursos educativos, integraciones.</td>
-    <td align="center">Prueba gratis, seminarios web, integraciones.</td>
-    <td align="center">Contenido sobre productividad, pruebas gratuitas.</td>
-    <td align="center">Demostraciones, contenido sobre análisis laboral.</td>
+    <td align="center">Marketing digital (redes, Google Ads), convenios con notarías y portales inmobiliarios, campañas B2C y B2B.</td>
+    <td align="center">Campañas digitales en redes, alianzas con inmobiliarias y constructoras.</td>
+    <td align="center">Participación en licitaciones, networking en colegios de ingenieros.</td>
+    <td align="center">Alianzas con bancos y entidades financieras, marketing corporativo.</td>
+    <td align="center">Charlas legales, convenios con municipalidades y gremios inmobiliarios.</td>
   </tr>
   <tr>
     <td rowspan="3" align="center"><strong>Perfil del Producto</strong></td>
