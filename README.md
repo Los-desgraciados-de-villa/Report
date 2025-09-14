@@ -119,7 +119,11 @@ Para poder valorar mejor la propuesta solución planteada a esta problemática, 
 </table>
 
 ### 2.1.2 Estrategias y tácticas frente a competidores
-
+- **Certificado verificable:** La empresa incorpora firma digital y un código QR para asegurar que el documento sea auténtico y fácil de validar.
+- **Plataforma web sencilla:** Se desarrolla un portal accesible desde computadora o celular, donde se puedan generar y consultar certificados.
+- **Inspecciones híbridas básicas:** Se combinan visitas presenciales con la posibilidad de enviar fotos o videos para agilizar la verificación del inmueble.
+- **Modelo de negocio claro:** Se ofrece un pago por certificado emitido y descuentos para clientes frecuentes como inmobiliarias o agentes.
+- **Marketing digital inicial:** Se aprovechan redes sociales y alianzas con páginas de clasificados inmobiliarios para darse a conocer y captar usuarios.
 
 ## 2.2 Entrevistas
 ### 2.2.1 Diseño de entrevistas
