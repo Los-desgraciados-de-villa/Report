@@ -247,6 +247,3 @@ A continuación se describen los dos segmentos objetivos principales para CertiI
 
 - En el mismo estudio “Perfil del comprador inmobiliario 2024”, se reporta que una parte significativa de los compradores residenciales están dejando de arrendar para adquirir propiedades, lo que implica demanda liderada por quienes ya conocen procesos inmobiliarios o para quienes intermediarios tienen presencia. ([pqs.pe](https://pqs.pe/actualidad/perfil-del-comprador-inmobiliario-2024-el-83-del-mercado-esta-concentrado-en-millennials-y-generacion-x/?utm_source=chatgpt.com))  
 - El mercado inmobiliario en Lima muestra que los precios por m² varían mucho según distrito, lo cual motiva a profesionales inmobiliarios a querer certificados fiables para sustentar valoraciones y negociaciones. Datos del Banco Central de Reserva del Perú muestran series de precios por m² en distritos en Lima (Barranco, Miraflores, La Molina, etc.).  
-
-<img width="468" height="640" alt="image" src="https://github.com/user-attachments/assets/ec740318-9a4d-449b-a725-532441944372" />
-
