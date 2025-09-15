@@ -183,6 +183,85 @@ Preguntas:
 ### 2.2.3 Análisis de entrevistas
 
 ---
+## 2.4 Big Picture Event Storming
+
+### **Actores**
+- Propietario  
+- Comprador/Arrendatario  
+- Agente/Corredor  
+- Verificador Técnico  
+- Notaría/Banco  
+- Plataforma CertiHome  
+- Integraciones (SUNARP, Municipios, Firma/TS, Pasarela de pago)  
+
+### **Eventos de Dominio** (en pasado, orden aproximado)
+1. **Solicitud de certificación creada**  
+2. **Datos del inmueble recopilados**  
+3. **Titularidad verificada**  
+4. **Inspección técnica registrada**  
+5. **Hallazgos técnicos consolidados**  
+6. **Información municipal consultada**  
+7. **Observaciones legales detectadas** (opcional)  
+8. **Borrador de certificado generado**  
+9. **Certificado firmado digitalmente**  
+10. **Certificado publicado**  
+11. **Certificado validado por terceros**  
+12. **Actualización del certificado solicitada**  
+13. **Certificado revocado** (si aplica)  
+
+### **Comandos**
+- Crear solicitud  
+- Registrar inspección  
+- Cargar evidencias  
+- Consolidar hallazgos  
+- Generar borrador  
+- Firmar certificado  
+- Publicar certificado  
+- Validar certificado  
+- Solicitar actualización  
+- Revocar certificado  
+
+### **Políticas**
+- Si **inspección registrada** y faltan evidencias → *solicitar evidencia adicional*.  
+- Si **observaciones legales detectadas** → *marcar “con observaciones”* y *notificar*.  
+- Si **certificado publicado** → *habilitar QR/endpoint de validación* y *auditar accesos*.  
+- Si **actualización solicitada** → *invalidar versión anterior* y *generar nueva versión*.  
+
+### **Agregados / Entidades**
+- **Certificado** (estado, versión, hash, firma, QR)  
+- **Inmueble** (id catastral/SUNARP, dirección, características)  
+- **Solicitud** (solicitante, alcance, pago/orden)  
+- **Inspección** (checklist, fotos, videos, responsable)  
+- **Verificación Legal** (partidas, cargas, licencias)  
+
+### **Bounded Contexts (tentativos)**
+- Onboarding & Solicitudes  
+- Verificación Legal  
+- Inspección Técnica  
+- Emisión & Firma  
+- Publicación & Validación  
+- Gestión de Versiones  
+
+### **Integraciones**
+- SUNARP  
+- Municipios/Tributos  
+- Pasarela de Firma y Sellado de Tiempo  
+- Almacenamiento de evidencias  
+- API/QR de validación pública  
+- Pasarela de pago  
+
+### **Hotspots**
+- Fuentes externas no confiables  
+- Cadena de custodia de evidencias  
+- Reglas de versión/revocación  
+- Validez normativa de firmas/TS  
+
+### **Métricas**
+- SLA tiempo-a-certificado  
+- % certificados con observaciones  
+- Tasa de validaciones externas  
+- Retrabajo por evidencias faltantes  
+- Uptime del endpoint de validación  
 
 ## 2.5 Ubiquitous Language
 
