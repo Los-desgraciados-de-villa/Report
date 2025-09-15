@@ -13,7 +13,7 @@ Desarrollo de Aplicaciones Open Source<br>
 <h2 align="center">INFORME</h2>
 
 <h3 align="center">Startup:</h3>
-<p align="center"><strong>TrackZone</strong></p>
+<p align="center"><strong>CertiHome</strong></p>
 
 <h3 align="center">Team Members:</h3>
 
