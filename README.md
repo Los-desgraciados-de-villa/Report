@@ -195,15 +195,15 @@ Preguntas:
 
 ### 2.3.2. User Task Matrix
 
-**Propietario de Inmueble** | **Agente Inmobiliario**
---- | ---
-**Task** | **Frequency / Importance** | **Task** | **Frequency / Importance**
-Solicitar certificados digitales del inmueble | High / High | Verificar autenticidad de documentos de propiedad | High / High
-Revisar estado técnico y legal del inmueble | High / High | Gestionar documentación de múltiples propiedades | High / High
-Validar certificados para procesos de venta o alquiler | High / High | Brindar confianza a clientes mostrando certificados verificables | High / High
-Dar seguimiento al historial de mantenimiento | Medium / High | Coordinar con notarios y bancos para trámites | High / High
-Compartir certificados con compradores o arrendatarios | Medium / High | Reducir tiempos en trámites documentarios | Medium / High
-Controlar costos y tiempos de certificación | Medium / Medium | Acceder a certificados desde cualquier dispositivo | Medium / High
+| **Propietario de Inmueble** | **Frequency / Importance** | **Agente Inmobiliario** | **Frequency / Importance** |
+|------------------------------|----------------------------|--------------------------|-----------------------------|
+| Solicitar certificados digitales del inmueble | High / High | Verificar autenticidad de documentos de propiedad | High / High |
+| Revisar estado técnico y legal del inmueble | High / High | Gestionar documentación de múltiples propiedades | High / High |
+| Validar certificados para procesos de venta o alquiler | High / High | Brindar confianza a clientes mostrando certificados verificables | High / High |
+| Dar seguimiento al historial de mantenimiento | Medium / High | Coordinar con notarios y bancos para trámites | High / High |
+| Compartir certificados con compradores o arrendatarios | Medium / High | Reducir tiempos en trámites documentarios | Medium / High |
+| Controlar costos y tiempos de certificación | Medium / Medium | Acceder a certificados desde cualquier dispositivo | Medium / High |
+
 
 ### 2.3.3. User Journey Mapping
 
