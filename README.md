@@ -39,7 +39,7 @@ Desarrollo de Aplicaciones Open Source<br>
 |TB1     |   |  | |               |
 |TB1     |   |Migul Ángel Román | |               |
 |TB1     |   |Franco López | |
-|TB1     | 14/09/25 |Juan Manuel Santos Torres | Desaroollo de los Needfinding, User Personas, User Task Matrix, Empathy Mapping, >Big picture event storming |
+|TB1     | 14/09/25 |Juan Manuel Santos Torres | Desarollo de los Needfinding, User Personas, User Task Matrix, Empathy Mapping, Big picture event storming |
 
 
 # Contenido
