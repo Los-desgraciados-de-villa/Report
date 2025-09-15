@@ -217,6 +217,13 @@ Preguntas:
 <img width="1531" height="1336" alt="Customer journey map 1" src="https://github.com/user-attachments/assets/6beab273-9afc-436a-a3ea-03ab92165834" />
 
 ### 2.3.4. Empathy Mapping
+**A continuación se mostrarán los Empathy Mapping de los segmentos objetivos.**
+
+**Segmento 1: Propietarios de inmuebles**
+<img width="1050" height="1660" alt="Ingrid empaty mapping" src="https://github.com/user-attachments/assets/cd1853dc-5d30-4ae2-ae53-3c898d63d73d" />
+
+**Segmento objetivo 2: Agentes inmobiliarios**
+<img width="1050" height="1660" alt="carlos" src="https://github.com/user-attachments/assets/db6794ed-084a-48bf-8a0e-a1dd79b81eac" />
 
 ## 2.4 Big Picture Event Storming
 
