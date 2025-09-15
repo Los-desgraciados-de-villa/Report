@@ -45,7 +45,7 @@ Desarrollo de Aplicaciones Open Source<br>
 # Contenido
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
-- [Student Outcome](#student-outcome)
+- [Student Outcome](##student-outcome)
 
 ## Capítulo I: Introducción
 - [1.1 Start-up Profile](#11-start-up-profile)
@@ -109,6 +109,24 @@ Desarrollo de Aplicaciones Open Source<br>
   - [4.7.2. Class Dictionary](#472-class-dictionary)
 - [4.8. Database Design](#48-database-design)
   - [4.8.1. Database Diagram](#481-database-diagram)
+
+## Student Outcome
+
+_ABET – EAC - Student Outcome 5_
+
+**Criterio:**  Capacidad de comunicarse efectivamente con un rango de audiencias.
+
+
+En el siguiente cuadro se describe las acciones realizadas y enunciados de
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
+del ABET – EAC - Student Outcome 3.
+
+
+
+| Criterio especifico                                                          | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Conclusiones |
+| :--------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
+| 1. Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Joaquin Enrique Carranza Tesen** <br> TB1:  <br><br> **A** <br> TB1: <br><br> **B** <br> TB1: <br><br> **C** <br> TB1: <br><br>                                               | **Joaquin Enrique Carranza Tesen**<br> TB1:  <br><br> **A** <br> TB1: <br><br> **B** <br> TB1: <br><br> **C** <br> TB1: <br>                                                                                                                                                 |
+| 2. Comunica por escrito con efectividad a diferentes rangos de audiencia | **Joaquin Enrique Carranza Tesen**<br> TB1: <br><br> **A**<br> TB1: <br><br> **B**<br> TB1:  <br><br> **C**<br> TB1: <br><br> | **Joaquin Enrique Carranza Tesen**<br> TB1: <br><br> **A**<br> TB1: <br><br> **B**<br> TB1: <br><br> **C** <br> TB1: <br> |
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1 Descripción de la Startup
