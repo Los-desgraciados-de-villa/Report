@@ -25,7 +25,7 @@ Desarrollo de Aplicaciones Open Source<br>
 |Miguel Ángel Junior Román López |u202212897 |
 |Franco Mauricio López |u202315890 |
 |Jhordi Luis Carranza Pérez |u20191e835|
-| | |
+|Juan Manuel Santos Torres |u20221a371 |
 
 </div>
 
@@ -39,7 +39,7 @@ Desarrollo de Aplicaciones Open Source<br>
 |TB1     |   |  | |               |
 |TB1     |   |Migul Ángel Román | |               |
 |TB1     |   |Franco López | |
-|TB1     |   | | |
+|TB1     | 14/09/25 |Juan Manuel Santos Torres | Desaroollo de los Needfinding, User Personas, User Task Matrix, Empathy Mapping, >Big picture event storming |
 
 
 # Contenido
