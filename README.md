@@ -195,31 +195,31 @@ La plataforma propuesta ofrecerá un sistema web que centraliza la generación, 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-- Hipótesis 1: Confianza en transacciones**  
+- **Hipótesis 1: Confianza en transacciones**  
   Creemos que al ofrecer certificados digitales sobre el estado de inmuebles a compradores o arrendatarios  
   Para personas interesadas en adquirir o alquilar propiedades en zonas urbanas  
   Se logrará mayor confianza y seguridad en sus decisiones de compra o alquiler.  
   Sabremos que tendremos éxito cuando al menos un cierto porcentaje de los usuarios reportan que el certificado fue determinante en su decisión.
 
-- Hipótesis 2: Reducción de fraudes**  
+- **Hipótesis 2: Reducción de fraudes**  
   Creemos que al establecer la información ya sea técnica, legal y estructural de un inmueble en un certificado verificado  
   Para arrendatarios y compradores  
   Se logrará una disminución de casos de fraude inmobiliario y conflictos legales.  
   Sabremos que tendremos éxito cuando se registre una reducción en los reclamos que estén relacionados a la información falsa o incompleta.
 
-- Hipótesis 3: Eficiencia de trámites**  
+- **Hipótesis 3: Eficiencia de trámites**  
   Creemos que al digitalizar la emisión de certificados de estado de inmuebles  
   Para instituciones tales como las notarías, municipalidades y bancos  
   Se logrará una reducción considerable en tiempos de gestión y costos de administración.  
   Sabremos que tendremos éxito cuando el tiempo promedio de verificación documental disminuya.
 
-- Hipótesis 4: Aceptación institucional**  
+- **Hipótesis 4: Aceptación institucional**  
   Creemos que al garantizar la autenticidad de los certificados mediante registros y firmas digitales  
   Para entidades financieras y notariales  
   Se logrará la adopción de los certificados como documentos válidos en procesos de crédito hipotecario y formalización de contratos.  
   Sabremos que tendremos éxito cuando las instituciones adopten oficialmente el uso de certificados en el primer año.
 
-- Hipótesis 5: Experiencia del usuario**  
+- **Hipótesis 5: Experiencia del usuario**  
   Creemos que al diseñar una plataforma web simple y accesible para generar y gestionar certificados  
   Para usuarios sin conocimientos técnicos avanzados  
   Se logrará una mayor satisfacción y recurrencia en el uso de la plataforma.  
