@@ -206,6 +206,15 @@ Preguntas:
 
 
 ### 2.3.3. User Journey Mapping
+**A continuación se mostrarán los User Journey Mapping de los segmentos objetivos.**
+
+**Segmento 1: Propietarios de inmuebles**
+
+<img width="1517" height="1336" alt="Customer journey map 2" src="https://github.com/user-attachments/assets/43bcb0f4-19a8-4a1d-b2b7-1ae67a252fba" />
+
+**Segmento objetivo 2: Agentes inmobiliarios**
+
+<img width="1531" height="1336" alt="Customer journey map 1" src="https://github.com/user-attachments/assets/6beab273-9afc-436a-a3ea-03ab92165834" />
 
 ### 2.3.4. Empathy Mapping
 
