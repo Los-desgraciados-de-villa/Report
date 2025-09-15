@@ -138,7 +138,7 @@ El equipo de CertiInmueble opera bajo un modelo de trabajo colaborativo y ágil,
 | Integrantes | Descripción |
 |-------------|-------------|
 | **Román López, Miguel Ángel Junior - U202212897** | Mi nombre es Miguel Angel Junior Román López y estoy llevando el curso de Aplicaciones Web de la carrera de Ingeniería de Software. Poseo habilidades como la comunicación, responsabilidad y organización que ayudarán al equipo a trabajar mejor cada avance requerido del proyecto. Por todo ello, mi compromiso será trabajar en equipo y entregar las actividades que se requieran puntualmente. |
-|             |             |
+| **Carranza Tesén, Joaquin Enrique - U20191B935** | Hola, soy Joaquín Carranza. Tengo 24 años y actualmente curso el sexto ciclo de la carrera de Ingeniería de Software. Me gusta la tecnología y la forma en que ayuda a las personas a resolver problemas de manera más rápida y eficiente. Me interesa especialmente el manejo de datos y la ciberseguridad. Siento que puedo aportar a mi equipo ideas desde otra perspectiva, ya que siempre me cuestiono cómo se podría mejorar el producto o hacia qué objetivo estamos apuntando. |
 |             |             |
 |             |             |
 |             |             |
