@@ -114,19 +114,19 @@ Desarrollo de Aplicaciones Open Source<br>
 
 _ABET – EAC - Student Outcome 5_
 
-**Criterio:**  Capacidad de comunicarse efectivamente con un rango de audiencias.
+**Criterio:**  Trabaja en equipo para cuyos miembros juntos proporcionan liderazgo, crea un etorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.
 
 
 En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
-del ABET – EAC - Student Outcome 3.
+del ABET – EAC - Student Outcome 5.
 
 
 
 | Criterio especifico                                                          | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Conclusiones |
 | :--------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
-| 1. Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Joaquin Enrique Carranza Tesen** <br> TB1:  <br><br> **A** <br> TB1: <br><br> **B** <br> TB1: <br><br> **C** <br> TB1: <br><br>                                               | **Joaquin Enrique Carranza Tesen**<br> TB1:  <br><br> **A** <br> TB1: <br><br> **B** <br> TB1: <br><br> **C** <br> TB1: <br>                                                                                                                                                 |
-| 2. Comunica por escrito con efectividad a diferentes rangos de audiencia | **Joaquin Enrique Carranza Tesen**<br> TB1: <br><br> **A**<br> TB1: <br><br> **B**<br> TB1:  <br><br> **C**<br> TB1: <br><br> | **Joaquin Enrique Carranza Tesen**<br> TB1: <br><br> **A**<br> TB1: <br><br> **B**<br> TB1: <br><br> **C** <br> TB1: <br> |
+| 1. Trabaja en equipo para proporcionar liderazgo en forma conjunta. | **Joaquin Enrique Carranza Tesen** <br> TB1:  <br><br> **A** <br> TB1: <br><br> **B** <br> TB1: <br><br> **C** <br> TB1: <br><br>                                               | **Joaquin Enrique Carranza Tesen**<br> TB1:  <br><br> **A** <br> TB1: <br><br> **B** <br> TB1: <br><br> **C** <br> TB1: <br>                                                                                                                                                 |
+| 2. Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | **Joaquin Enrique Carranza Tesen**<br> TB1: <br><br> **A**<br> TB1: <br><br> **B**<br> TB1:  <br><br> **C**<br> TB1: <br><br> | **Joaquin Enrique Carranza Tesen**<br> TB1: <br><br> **A**<br> TB1: <br><br> **B**<br> TB1: <br><br> **C** <br> TB1: <br> |
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1 Descripción de la Startup
