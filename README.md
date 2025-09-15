@@ -35,7 +35,7 @@ Desarrollo de Aplicaciones Open Source<br>
 
 | Versión | Fecha       | Autor(es)| Descripción de la modificación   |
 |---------|-------------|--------------|----------------------|
-|TB1     |   |  | |               |
+|TB1     | 12/09/25  |Joaquin Enrique Carranza Tesén  | Creacion de la organización y repositorios en GitHub para el desarrollo conjuto del proyecto.|               |
 |TB1     |   |  | |               |
 |TB1     |   |Migul Ángel Román | |               |
 |TB1     |   |Franco López | |
