@@ -183,6 +183,22 @@ Preguntas:
 ### 2.2.3 Análisis de entrevistas
 
 ---
+
+## 2.3. Needfinding
+
+### 2.3.1. User Personas
+**Segmento 1: Propietarios de inmuebles**
+<img width="1050" height="1720" alt="Ingrid Bejar" src="https://github.com/user-attachments/assets/1969d5ef-27aa-4389-a922-f201649f5ccf" />
+
+**Segmento objetivo 2: Agentes inmobiliarios**
+<img width="1050" height="1780" alt="Carlos Ramírez" src="https://github.com/user-attachments/assets/70b2d5a9-cc6f-4dd3-9854-ea793662963b" />
+
+### 2.3.2. User Task Matrix
+
+### 2.3.3. User Journey Mapping
+
+### 2.3.4. Empathy Mapping
+
 ## 2.4 Big Picture Event Storming
 
 ### **Actores**
