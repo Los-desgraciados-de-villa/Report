@@ -45,7 +45,7 @@ Desarrollo de Aplicaciones Open Source<br>
 # Contenido
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
-- [Student Outcome](##student-outcome)
+- [Student Outcome](#student-outcome)
 
 ## Capítulo I: Introducción
 - [1.1 Start-up Profile](#11-start-up-profile)
@@ -110,7 +110,7 @@ Desarrollo de Aplicaciones Open Source<br>
 - [4.8. Database Design](#48-database-design)
   - [4.8.1. Database Diagram](#481-database-diagram)
 
-## Student Outcome
+# Student Outcome
 
 _ABET – EAC - Student Outcome 5_
 
