@@ -37,7 +37,7 @@ Desarrollo de Aplicaciones Open Source<br>
 |---------|-------------|--------------|----------------------|
 |TB1     | 12/09/25  |Joaquin Enrique Carranza Tesén  | Creacion de la organización y repositorios en GitHub para el desarrollo conjuto del proyecto.|               |
 |TB1     |   |  | |               |
-|TB1     |   |Migul Ángel Román | |               |
+|TB1     | 13/09/25 |Miguel Ángel Román | Desarrollo de la Startup, perfiles de integrantes de equipo, ubiquitous Language, Diseño de entrevistas,registro de entrevistas, plantilla para los User Stories |               |
 |TB1     |   |Franco López | |
 |TB1     | 14/09/25 |Juan Manuel Santos Torres | Desarollo de los Needfinding, User Personas, User Task Matrix, Empathy Mapping, Big picture event storming |
 
@@ -127,6 +127,8 @@ del ABET – EAC - Student Outcome 5.
 | :--------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
 | 1. Trabaja en equipo para proporcionar liderazgo en forma conjunta. | **Joaquin Enrique Carranza Tesen** <br> TB1:  <br><br> **A** <br> TB1: <br><br> **B** <br> TB1: <br><br> **C** <br> TB1: <br><br>                                               | **Joaquin Enrique Carranza Tesen**<br> TB1:  <br><br> **A** <br> TB1: <br><br> **B** <br> TB1: <br><br> **C** <br> TB1: <br>                                                                                                                                                 |
 | 2. Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | **Joaquin Enrique Carranza Tesen**<br> TB1: <br><br> **A**<br> TB1: <br><br> **B**<br> TB1:  <br><br> **C**<br> TB1: <br><br> | **Joaquin Enrique Carranza Tesen**<br> TB1: <br><br> **A**<br> TB1: <br><br> **B**<br> TB1: <br><br> **C** <br> TB1: <br> |
+| 1. Trabaja en equipo para proporcionar liderazgo en forma conjunta. | **Miguel Ángel Junior Román López** <br> TB1:  <br><br> **A** <br> TB1: <br><br> **B** <br> TB1: <br><br> **C** <br> TB1: <br><br>                                               | **Miguel Ángel Junior Román López**<br> TB1:  <br><br> **A** <br> TB1: <br><br> **B** <br> TB1: <br><br> **C** <br> TB1: <br>                                                                                                                                                 |
+| 2. Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | **Miguel Ángel Junior Román López**<br> TB1: <br><br> **A**<br> TB1: <br><br> **B**<br> TB1:  <br><br> **C**<br> TB1: <br><br> | **Miguel Ángel Junior Román López**<br> TB1: <br><br> **A**<br> TB1: <br><br> **B**<br> TB1: <br><br> **C** <br> TB1: <br> |
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1 Descripción de la Startup
