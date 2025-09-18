@@ -156,27 +156,41 @@ Preguntas:
 
 | Campo          | Detalle                |
 |----------------|------------------------|
-| ENTREVISTADOR  | [Nombre del entrevistador] |
-| ENTREVISTADO   | [Nombre del entrevistado]  |
-| Fecha          |                        |
-| Edad           |                        |
-| Duración       |                        |
-| Profesión      |                        |
-| Enlace         | [URL de la entrevista] |
+| ENTREVISTADOR  | Franco López |
+| ENTREVISTADO   | Salomé Román |
+| Fecha          | 15/08/25 |
+| Edad           | 44 |
+| Duración       | 5:55 |
+| Profesión      | Coordinadora municipal |
+| Enlace         | [[URL de la entrevista]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315890_upc_edu_pe/ESwVn88TtPJCji3vOk0EDJMBnqlhVKoU5PafwLrjtZJbrA?e=Rw7rZb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
 | Segmento       | Propietario            |
 | Resumen        |                        |
 
-**Entrevista 2 - Agente Inmobiliario**
+**Entrevista 2 - Propietario**
 
 | Campo          | Detalle                |
 |----------------|------------------------|
-| ENTREVISTADOR  | [Nombre del entrevistador] |
-| ENTREVISTADO   | [Nombre del entrevistado]  |
-| Fecha          |                        |
-| Edad           |                        |
-| Duración       |                        |
-| Experiencia    |                        |
-| Enlace         | [URL de la entrevista] |
+| ENTREVISTADOR  | Franco López |
+| ENTREVISTADO   | Victor Hugo López |
+| Fecha          | 16/08/25 |
+| Edad           | 58 |
+| Duración       | 3:35 |
+| Profesión      | Medico - Jefe de unidad UCI |
+| Enlace         | [[URL de la entrevista]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315890_upc_edu_pe/EeBRFqF1Ne9KnfQWXi-F8dwBhADRXqhxcFwerT5Heb5KwA?e=o8Te2a&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+| Segmento       | Propietario            |
+| Resumen        |                        |
+
+**Entrevista 4 - Agente Inmobiliario**
+
+| Campo          | Detalle                |
+|----------------|------------------------|
+| ENTREVISTADOR  | Franco López |
+| ENTREVISTADO   | Daniel Castro  |
+| Fecha          | 17/09/25 |
+| Edad           | 40 |
+| Duración       | 12:34 |
+| Experiencia    | Venta de terrenos |
+| Enlace         | [[URL de la entrevista]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315890_upc_edu_pe/EfkmPoXMRadKh5Zq5jjEPe0BasTOQkwv3-Cq-oR0eG5MuA?e=rwOLx1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
 | Segmento       | Agente Inmobiliario    |
 | Resumen        |                        |
 
