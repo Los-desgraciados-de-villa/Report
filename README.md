@@ -18,7 +18,7 @@ Para poder valorar mejor la propuesta solución planteada a esta problemática, 
   </tr>
   <tr>
     <td colspan="2"></td>
-    <td align="center">Nuestro aplicativo<br> </td>
+    <td align="center">CertiInmueble<br> </td>
     <td align="center">VeriCasa<br> </td>
     <td align="center">GLEM Estudios y Proyectos<br> </td>
     <td align="center">TECNITASA<br> </td>
