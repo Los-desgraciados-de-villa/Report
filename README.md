@@ -151,10 +151,38 @@ En esta sección se da a conocer el planeamiento que se ha tenido para el desarr
 Durante Sprint 1 se desarrollaron funcionalidades fundamentales para facilitar la experiencia del usuario al navegar, se priorizó que esta sea fácil, amigable y visualmente adaptable al usuario. Detallamos a continuación las tareas asocidadas a las historias de usuario que se han priorizado desarrollar para este Spring.
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
+| Repository | Branch   | Commit Id | Commit Message | Commit Message Body | Commit on (Date) |
+|-------------|----------|-----------|----------------------------------------------------------------|---------------------------------------------------------------|-------------------|
+| []() | main  | c042919 | docs(assets): add company and logo picture | docs(assets): add company and logo picture | 15/09/2025 |
+| []() | main  | 727eb97  | docs(video): add video promo  | docs(video): add video promo | 17/09/2025 |
+| []() | main  | 5dceb27  | feat(landing): add header section | feat(landing): add header section | 18/09/2025 |
+| []() | main  | 49b9560  | feat(landing): add reviews section | feat(landing): add reviews section | 18/09/2025 |
+| []() | main  | 8fd4024  | feat(landing): add contact and footer section | feat(landing): add contact and footer section | 19/09/2025 |
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+Durante este primer Sprint, se implementó el diseño de la primera version del Landing Page, desplegado en Github Pages. A continuacion, se explicara las secciones importantes.
+
+Sección --:
+<img src=""/>
+
+Sección --:
+<img src=""/>
+
+Sección --:
+<img src=""/>
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+Para el Sprint 1, no se ha trabajado en la documentación de los servicios de la aplicación, ya que el enfoque principal ha sido la creación del Landing Page. Será durante los siguientes Sprints, donde se realizará el desarrollo de la documentación de los servicios
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+1. Creación de organización en Github. <img src=""/>
+2. Asociación de los integrantes del equipo para la colaboración en los repositorios de la organización. <img src=""/>
+3. Creación de repositorios separados para la organización de entregables <img src=""/>
+4. Configuración y despliegue de la primera versión del Landing Page en **Github Pages** <img src=""/>
+
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+Ahora, se mostraran las evidencias de la colaboración conjunta del equipo durante el desarrollo del Sprint 1
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
