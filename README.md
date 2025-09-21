@@ -164,7 +164,7 @@ Preguntas:
 | Profesión      | Coordinadora municipal |
 | Enlace         | [[URL de la entrevista]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315890_upc_edu_pe/ESwVn88TtPJCji3vOk0EDJMBnqlhVKoU5PafwLrjtZJbrA?e=Rw7rZb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
 | Segmento       | Propietario            |
-| Resumen        |                        |
+| Resumen        | Salome Román, una trabajadora de 44, coordinadora de la municipalidad de Miraflores. Compartió su opinión y experiencia acerca de los estados y verificación de los inmuebles que llego a adquirir a lo largo de los años, explicando su conocomiento sobre los certificados virtuales y su opinión sobre su validez. Ella reconoció no saber mucho del tema degital, pero expreso la importancia que le da a los servicios de agua y electricos además de la sana infraestructura de un inmueble a la hora de evaluar un certificado de su calidad. Finalmente, mostró un amplio interes en nuestro proyecto y sus funcionalidades principales |
 
 **Entrevista 2 - Propietario**
 
@@ -178,7 +178,7 @@ Preguntas:
 | Profesión      | Medico - Jefe de unidad UCI |
 | Enlace         | [[URL de la entrevista]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315890_upc_edu_pe/EeBRFqF1Ne9KnfQWXi-F8dwBhADRXqhxcFwerT5Heb5KwA?e=o8Te2a&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
 | Segmento       | Propietario            |
-| Resumen        |                        |
+| Resumen        |El entrevistado Victor López, un medico jefe de una unidad UCI, considera que al evaluar el estado de un inmueble, los aspectos más relevantes son la condición estructural, la situación legal y la veracidad de la documentación presentada. Reconoce que en el mercado inmobiliario existen riesgos asociados a documentación falsa o alterada, lo que genera desconfianza y demora en las transacciones. En cuanto a los certificados digitales, manifiesta un nivel bajo a medio de familiaridad, aunque percibe que su validez legal y confiabilidad serán factores clave para generar confianza en su uso. Respecto al contenido, considera indispensable incluir información estructural, legal, de servicios básicos y cargas registrales del inmueble. En general, muestra interés en soluciones digitales que brinden confianza, seguridad y respaldo legal, siempre que se asegure la protección de la información y se simplifique el proceso de compraventa.|
 
 **Entrevista 4 - Agente Inmobiliario**
 
@@ -192,7 +192,7 @@ Preguntas:
 | Experiencia    | Venta de terrenos |
 | Enlace         | [[URL de la entrevista]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315890_upc_edu_pe/EfkmPoXMRadKh5Zq5jjEPe0BasTOQkwv3-Cq-oR0eG5MuA?e=rwOLx1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
 | Segmento       | Agente Inmobiliario    |
-| Resumen        |                        |
+| Resumen        | El señor Daniel Castro señala que para evaluar un inmueble actualmente requiere títulos de propiedad, partidas registrales, documentos de cargas y gravámenes, licencias municipales, planos y constancias de servicios básicos. El proceso de verificación suele implicar consultas manuales en Registros Públicos y validaciones adicionales con municipalidades o notarías, lo que resulta lento y propenso a errores..Percibe claras ventajas en contar con certificados digitales verificables, principalmente en términos de rapidez, reducción de trámites presenciales, disminución de riesgos de fraude documental y mayor confianza en las transacciones. Considera que un certificado de inmueble debería incluir, además de la información estructural y legal básica, detalles técnicos de mantenimiento, historial de remodelaciones y reportes de tasación actualizados. En su flujo de trabajo, integraría el servicio como un requisito previo a la publicación de propiedades y antes de concretar negociaciones, lo que le permitiría ofrecer a sus clientes mayor seguridad y transparencia.|
 
 **Entrevista 5 - Agente Inmobiliario**
 
