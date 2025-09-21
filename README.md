@@ -5,6 +5,7 @@
 Para poder valorar mejor la propuesta solución planteada a esta problemática, se diseñaron preguntas claves respecto a la propuesta de solución y a la situación de los usuarios con la problemática que poseen. Se buscará que diferentes personas con características cercanas a los segmentos objetivos puedan responderlas. De esta manera, se podrán obtener mejores respuestas cercanas a lo que se necesita para conocer los requerimientos o necesidades que los usuarios necesitan satisfacer. Luego, se registrarán las respuestas dadas por los entrevistados y se realizará un análisis de cada respuesta dada para identificar las necesidades de los usuarios.
 
 ## 2.1 Competidores
+
 ### 2.1.1 Análisis Competitivo
 <table>
   <tr>
