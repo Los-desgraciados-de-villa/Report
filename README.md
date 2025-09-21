@@ -1,3 +1,4 @@
+
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.2 Entrevistas
@@ -375,6 +376,79 @@ El lenguaje ubicuo fue desarrollado en dos sesiones de Event Storming con partic
 
 Este glosario fue consensuado por todo el equipo y está disponible en el Wiki de nuestro repositorio GitHub para referencia constante durante el desarrollo.  
 
----
+# Capítulo III: Requirements Specification
+## 3.1. To-Be Scenario Mapping
+
+* **Segmento 1: Propietarios de inmuebles**
+
+| **Fases**                           | **Publicación y Gestión de Inmuebles**                                                                                   | **Certificación de la Propiedad**                                                                                                 | **Autenticación y Gestión de Usuario**                                                                                         |
+|-------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| **Doing**                           | El propietario registra su inmueble en la plataforma, sube documentos legales y técnicos (planos, escritura, etc.).                 | Envía los documentos a la entidad verificadora y recibe un certificado digital firmado electrónicamente.  | Se registra en la plataforma, valida su identidad y crea un perfil con la información de sus propiedades.  |
+| **Thinking**                         | ¿La información que estoy subiendo es suficiente y clara para que el inmueble sea certificado más rápido?                                      | ¿La certificación aumentará la confianza en mi propiedad y acelerará la venta?                             | ¿La plataforma asegura que mis datos personales y documentos estarán protegidos?                     |
+| **Feeling**                          | Se siente responsable al documentar adecuadamente su propiedad.         | Se siente satisfecho y optimista al obtener el certificado digital que da valor a su inmueble.                      | Se siente tranquilo y confiado al ver que sus datos están protegidos con procesos seguros.            |
+
+* **Segmento 2: Agentes inmobiliarios**
+
+| **Fases**                           | **Consulta de Certificados**                                                                                   | **Presentación de Propiedades**                                                                                                 | **Autenticación y Gestión de Usuario**                                                                                         |
+|-------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| **Doing**                           | El agente busca inmuebles dentro de la plataforma y accede a los certificados digitales verificados.              | Comparte los certificados con clientes mediante enlaces seguros o documentos descargables.      | Se registra en la plataforma como agente autorizado y gestiona su portafolio de propiedades certificadas.  |
+| **Thinking**                         | ¿Este inmueble cuenta con un certificado válido y actualizado que aumente la confianza del comprador?   | ¿Cómo puedo aprovechar esta certificación para cerrar la venta más rápido y con menos objeciones?                                               | ¿La plataforma valida de manera clara mi rol como agente inmobiliario?                              |
+| **Feeling**                          | Se siente respaldado al acceder a información transparente y verificada. | Se siente motivado y confiado al mostrar propiedades certificadas a sus clientes.                           | Se siente reconocido como actor clave en la plataforma y seguro de que sus datos están bien gestionados.                      |
+
+## 3.2 User Stories
+
+Épicas:
+
+| Epic ID | Título                         | Descripción                                                                                                                                        |
+| ------- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| EP01    | Emisión de certificados verificables    | Como comprador de un inmueble, quiero acceder a certificados digitales verificables para tener seguridad sobre el estado legal, técnico y estructural de la propiedad.                     |
+| EP02    | Gestión de información de inmuebles  | Como vendedor de un inmueble, quiero subir la información técnica y legal de mi propiedad en la plataforma para agilizar el proceso de certificación.     |
+| EP03    | Validación en talleres y entidades    | Como entidad verificadora, quiero validar la información de los inmuebles en la plataforma para garantizar la autenticidad y credibilidad de los certificados. |
+| EP04    | Transparencia en las transacciones | Como agente inmobiliario, quiero mostrar certificados digitales a mis clientes para generar confianza y cerrar transacciones con mayor rapidez.                      |
+| EP05    | Reportes y trazabilidad | Como administrador de la plataforma, quiero generar reportes sobre la emisión y uso de certificados para garantizar la trazabilidad y transparencia del proceso.                      |
+
+Historias de Usuario:
+
+| ID   | Épica | User Story                              | Historia                                                                                                                                                        | Criterios de Aceptación                                                                                                                                                                                                                                                                         |
+| ---- | ----- | --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| US01 | EP01  | Solicitar certificado de inmueble | Como comprador, quiero solicitar un certificado digital del inmueble para validar su estado legal, técnico y estructural.                                                  | **Escenario 1:** Dado que un comprador solicita el certificado, cuando el sistema valida la solicitud, entonces genera un certificado digital.<br> **Escenario 2:** Dado que faltan documentos, cuando el comprador solicita el certificado, entonces el sistema muestra un error indicando los requisitos incompletos. |
+| US02 | EP01  | Descargar certificado digital           | Como comprador, quiero descargar el certificado en formato PDF para almacenarlo y consultarlo en cualquier momento.                                                    | **Escenario 1:** Dado que un certificado está validado, cuando el comprador descarga el archivo, entonces recibe un PDF con sello digital.<br> **Escenario 2:** Dado que el certificado aún no está aprobado, cuando intenta descargarlo, entonces el sistema bloquea la acción.              |
+| US03 | EP02  | Subir documentos legales         | Como vendedor, quiero subir documentos legales de mi propiedad para iniciar el proceso de certificación.                                                    | **Escenario 1:** Dado que el vendedor adjunta documentos válidos, cuando hace clic en "subir", entonces el sistema los almacena correctamente.<br> **Escenario 2:** Dado que el documento está en formato no permitido, cuando intenta subirlo, entonces el sistema muestra un mensaje de error.                     |
+| US04 | EP02  | Editar información técnica       | Como vendedor, quiero actualizar la información técnica de mi inmueble para asegurar que el certificado sea preciso.                                       | **Escenario 1:** Dado que el vendedor modifica datos, cuando guarda los cambios, entonces el sistema actualiza la información.<br> **Escenario 2:** Dado que los cambios no cumplen el formato requerido, cuando guarda, entonces el sistema muestra un error.             |
+| US05 | EP03  | Validar documentos subidos               | Como entidad verificadora, quiero revisar los documentos cargados para confirmar su autenticidad.                                                | **Escenario 1:** Dado que el verificador recibe documentos, cuando los valida, entonces el sistema cambia el estado a “verificado”.<br> **Escenario 2:** Dado que los documentos no son válidos, cuando los revisa, entonces el sistema cambia el estado a “rechazado”.                 |
+| US06 | EP03  | Firmar digitalmente certificado | Como entidad verificadora, quiero firmar digitalmente el certificado para garantizar su validez legal. | **Escenario 1:** Dado que el certificado está aprobado, cuando el verificador firma, entonces se añade la firma digital.<br> **Escenario 2:** DDado que el certificado tiene inconsistencias, cuando intenta firmar, entonces el sistema bloquea la acción.                       |
+| US07 | EP04  | Consultar certificados públicos         | Como agente inmobiliario, quiero consultar los certificados digitales de los inmuebles disponibles para mostrar a mis clientes.                                                        | **Escenario 1:** Dado que un inmueble tiene certificado, cuando el agente consulta, entonces el sistema muestra el documento.<br> **Escenario 2:** Dado que el inmueble no tiene certificado, cuando consulta, entonces el sistema informa “certificado no disponible”.                                                       |
+| US08 | EP04  | Compartir certificado con cliente      | Como agente inmobiliario, quiero compartir el certificado digital con mis clientes para generar confianza en la transacción.                                                   | **Escenario 1:** Dado que el agente selecciona un certificado, cuando hace clic en compartir, entonces el sistema envía el enlace seguro.<br> **Escenario 2:** Dado que el certificado está expirado, cuando intenta compartirlo, entonces el sistema muestra un error.                            |
+| US09 | EP05  | Generar reporte de certificados emitidos             | Como administrador, quiero generar reportes de certificados emitidos para llevar control de las operaciones.                                                 | **Escenario 1:** Dado que el administrador solicita un reporte, cuando selecciona un rango de fechas, entonces el sistema genera el informe.<br> **Escenario 2:**Dado que no hay datos en el rango, cuando solicita el reporte, entonces el sistema devuelve “sin resultados”.                                           |
+| US10 | EP05  | Consultar historial de verificaciones          | Como administrador, quiero consultar el historial de validaciones para asegurar la trazabilidad del proceso.                                                        | **Escenario 1:** Dado que existen registros, cuando el administrador consulta, entonces el sistema muestra la lista de verificaciones.<br> **Escenario 2:** Dado que no hay registros, cuando consulta, entonces el sistema devuelve un historial vacío.                            |
+| US11 | EP01  | Verificar validez de certificado               | Como comprador, quiero verificar en línea la validez de un certificado para confirmar que no ha sido alterado.                                                         | **Escenario 1:** Dado que el comprador ingresa un código de certificado, cuando lo valida, entonces el sistema confirma la autenticidad..<br> **Escenario 2:** Dado que el código es inválido, cuando lo ingresa, entonces el sistema muestra “certificado no encontrado”.          |
+| US12 | EP04  | Filtrar inmuebles con certificado           | Como agente inmobiliario, quiero filtrar inmuebles que ya cuenten con certificado para priorizar opciones seguras.                                    | **Escenario 1:** Dado que selecciona el filtro, cuando consulta inmuebles, entonces el sistema muestra solo los que tienen certificado<br> **Escenario 2:** Dado que ningún inmueble cumple con el filtro, cuando aplica el criterio, entonces el sistema muestra “sin resultados”.                  |
+
+## 3.3. Impact Mapping
+
+| Objetivo                                           | Actores                 | Impactos esperados                                                                 | Funcionalidades asociadas                                                                                              |
+| -------------------------------------------------- | ----------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **Generar confianza en las transacciones inmobiliarias**       | Compradores           | - Mayor seguridad al adquirir propiedades. <br> - Reducción de fraudes inmobiliarios. | - Emisión de certificados digitales verificables. <br> - Validación online de autenticidad con código único.                              |
+| **Agilizar procesos de compraventa de inmuebles** | Vendedores              | - Menor tiempo en trámites previos a la venta. <br> - Mayor atractivo de la propiedad en el mercado.          | - Plataforma para subir documentos legales y técnicos. <br> - Actualización de datos del inmueble en tiempo real.                                     |
+| **Garantizar la validez de la información de los inmuebles**         | Entidades verificadoras   | - Procesos de validación más transparentes. <br> - Menor riesgo de falsificación de documentos.        | - Módulo de validación documental. <br> - Firma digital de certificados.                                        |
+| **Optimizar la gestión de inmuebles certificados**     | Agentes inmobiliarios | - Acceso rápido a información confiable. <br> - Aumento en la tasa de cierre de ventas.        | - Consulta de certificados en línea. <br> - Opción de compartir certificados con clientes vía enlace seguro. |
+| **Garantizar trazabilidad y sostenibilidad del sistema**     | Administradores | - Mayor control de certificados emitidos. <br> - Monitoreo de uso de la plataforma.        | - Generación de reportes históricos. <br> - Exportación de métricas en PDF. <br> - Panel de trazabilidad completa. |
+
+## 3.4. Product Backlog
+
+| Orden | Épica | Título                                           | Relación con User Story | Prioridad | Story Points <br>(1/2/3/5/8) |
+| ----- | ----- | ------------------------------------------------ | ----------------------- | --------- | ------------ |
+| 1     | EP01  | Emisión de certificados digitales verificables         | US01                    | Alta      | 8            |
+| 2     | EP01  | Descarga de certificado en PDF con sello digital                | US02                    | Alta      | 5            |
+| 3     | EP01  | Verificación online de validez de certificado        | US11                    | Alta     | 5            |
+| 4     | EP02  | Subida de documentos legales y técnicos        | US03                    | Alta      | 8            |
+| 5     | EP02  | Edición y actualización de información técnica                       | US04                    | Media      | 5            |
+| 6     | EP03  | Validación de documentos por entidad verificadora       | US05                    | Alta      | 8            |
+| 7     | EP03  | Firma digital de certificados               | US06                    | Alta      | 5            |
+| 8     | EP04  | Consulta de certificados disponibles                  | US07                    | Alta      | 5            |
+| 9     | EP04  | Compartir certificado con cliente vía enlace | US08                    | Media     | 3            |
+| 10    | EP03  | Filtro de inmuebles con certificado              | US12                    | Media     | 3            |
+| 11    | EP05  | Generación de reportes de certificados emitidos  | US09                    | Media     | 5            |
+| 12    | EP05  | Consulta del historial de verificaciones                     | US10                    | Baja      | 3            |
 
 
