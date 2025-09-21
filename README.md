@@ -153,31 +153,38 @@ Durante Sprint 1 se desarrollaron funcionalidades fundamentales para facilitar l
 #### 5.2.1.4. Development Evidence for Sprint Review.
 | Repository | Branch   | Commit Id | Commit Message | Commit Message Body | Commit on (Date) |
 |-------------|----------|-----------|----------------------------------------------------------------|---------------------------------------------------------------|-------------------|
-| []() | main  | c042919 | docs(assets): add company and logo picture | docs(assets): add company and logo picture | 15/09/2025 |
-| []() | main  | 727eb97  | docs(video): add video promo  | docs(video): add video promo | 17/09/2025 |
-| []() | main  | 5dceb27  | feat(landing): add header section | feat(landing): add header section | 18/09/2025 |
-| []() | main  | 49b9560  | feat(landing): add reviews section | feat(landing): add reviews section | 18/09/2025 |
-| []() | main  | 8fd4024  | feat(landing): add contact and footer section | feat(landing): add contact and footer section | 19/09/2025 |
+| [CertiInmueble](https://los-desgraciados-de-villa.github.io/Landing-page) | main  | c042919 | docs(assets): add company and logo picture | docs(assets): add company and logo picture | 15/09/2025 |
+| [CertiInmueble](https://los-desgraciados-de-villa.github.io/Landing-page) | main  | 727eb97  | docs(video): add video promo  | docs(video): add video promo | 17/09/2025 |
+| [CertiInmueble](https://los-desgraciados-de-villa.github.io/Landing-page) | main  | 5dceb27  | feat(landing): add header section | feat(landing): add header section | 18/09/2025 |
+| [CertiInmueble](https://los-desgraciados-de-villa.github.io/Landing-page) | main  | 49b9560  | feat(landing): add reviews section | feat(landing): add reviews section | 18/09/2025 |
+| [CertiInmueble](https://los-desgraciados-de-villa.github.io/Landing-page) | main  | 8fd4024  | feat(landing): add contact and footer section | feat(landing): add contact and footer section | 19/09/2025 |
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 Durante este primer Sprint, se implementó el diseño de la primera version del Landing Page, desplegado en Github Pages. A continuacion, se explicara las secciones importantes.
 
-Sección --:
+Sección Nosotros:
 <img src=""/>
 
-Sección --:
+Sección Solocitar certificado:
 <img src=""/>
 
-Sección --:
+Sección Servicios/Beneficios:
 <img src=""/>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 Para el Sprint 1, no se ha trabajado en la documentación de los servicios de la aplicación, ya que el enfoque principal ha sido la creación del Landing Page. Será durante los siguientes Sprints, donde se realizará el desarrollo de la documentación de los servicios
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-1. Creación de organización en Github. <img src=""/>
-2. Asociación de los integrantes del equipo para la colaboración en los repositorios de la organización. <img src=""/>
-3. Creación de repositorios separados para la organización de entregables <img src=""/>
-4. Configuración y despliegue de la primera versión del Landing Page en **Github Pages** <img src=""/>
+1. Creación de organización en Github.
+<img src="https://github.com/user-attachments/assets/c2203281-366e-4880-a4b1-ad6329cf2ab0"/>
+
+2. Asociación de los integrantes del equipo para la colaboración en los repositorios de la organización.
+<img src="https://github.com/user-attachments/assets/72f918a5-e36e-4130-aa4f-7d2760306ac0"/>
+
+3. Creación de repositorios separados para la organización de entregables
+<img src="https://github.com/user-attachments/assets/9d8ef48c-384a-461e-9fe1-17d2ba1332e9"/>
+
+4. Configuración y despliegue de la primera versión del Landing Page en **Github Pages**
+<img src="https://github.com/user-attachments/assets/2ea31558-136a-434a-aa2f-fcd0a14ed8a1" />
 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
