@@ -154,7 +154,6 @@ Durante Sprint 1 se desarrollaron funcionalidades fundamentales para facilitar l
 | Repository | Branch   | Commit Id | Commit Message | Commit Message Body | Commit on (Date) |
 |-------------|----------|-----------|----------------------------------------------------------------|---------------------------------------------------------------|-------------------|
 | [CertiInmueble](https://los-desgraciados-de-villa.github.io/Landing-page) | main  | c042919 | docs(assets): add company and logo picture | docs(assets): add company and logo picture | 15/09/2025 |
-| [CertiInmueble](https://los-desgraciados-de-villa.github.io/Landing-page) | main  | 727eb97  | docs(video): add video promo  | docs(video): add video promo | 17/09/2025 |
 | [CertiInmueble](https://los-desgraciados-de-villa.github.io/Landing-page) | main  | 5dceb27  | feat(landing): add header section | feat(landing): add header section | 18/09/2025 |
 | [CertiInmueble](https://los-desgraciados-de-villa.github.io/Landing-page) | main  | 49b9560  | feat(landing): add reviews section | feat(landing): add reviews section | 18/09/2025 |
 | [CertiInmueble](https://los-desgraciados-de-villa.github.io/Landing-page) | main  | 8fd4024  | feat(landing): add contact and footer section | feat(landing): add contact and footer section | 19/09/2025 |
