@@ -214,31 +214,12 @@ flowchart TD
 
 ### 4.6.1. Software Architecture Context Diagram
 
-```mermaid
-graph LR
-  User[Usuario (Comprador/Vendedor/Agente)] -->|Solicita/Verifica| WebApp[CertiInmueble WebApp]
-  Notary[Notaría / Banco] -->|Consulta / Verifica| WebApp
-  SUNARP[SUNARP API] -->|Consulta partidas| WebApp
-  Municipality[Municipalidad] -->|Consulta licencias| WebApp
-  TS[TimeStamp Service] -->|Sello de tiempo| WebApp
-  ES[Electronic Signature Provider] -->|Firma digital| WebApp
-  Payment[Pasarela de Pago] -->|Pagos| WebApp
-  Storage[Blob Storage (Evidencias)] -->|Almacenamiento| WebApp
-```
+<img alt="tb1_Contexto" src="https://github.com/user-attachments/assets/a9d36f50-b601-4e21-9a02-000d6283b237" />
 
 ### 4.6.2. Software Architecture Container Diagrams
 
-```mermaid
-graph TD
-  Web[Web Frontend (React/Vue)] --> Api[Backend API (Node/Java)]
-  Api --> DB[(PostgreSQL)]
-  Api --> Storage[Object Storage (S3)]
-  Api --> Auth[Auth Service (OAuth / Keycloak)]
-  Api --> ES[Electronic Signature Service]
-  Api --> TS[TimeStamp Service]
-  Api --> SUNARP_API[SUNARP Integration Adapter]
-  Worker[Background Workers] --> Api
-```
+<img alt="tb1_Contenedores" src="https://github.com/user-attachments/assets/d4901a8d-5f69-4ee7-8beb-48e52cf74d02" />
+
 
 **Descripción de containers**
 - **Web Frontend:** SPA para usuarios y paneles administrativos.
