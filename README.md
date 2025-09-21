@@ -180,6 +180,20 @@ Preguntas:
 | Segmento       | Propietario            |
 | Resumen        |El entrevistado Victor López, un medico jefe de una unidad UCI, considera que al evaluar el estado de un inmueble, los aspectos más relevantes son la condición estructural, la situación legal y la veracidad de la documentación presentada. Reconoce que en el mercado inmobiliario existen riesgos asociados a documentación falsa o alterada, lo que genera desconfianza y demora en las transacciones. En cuanto a los certificados digitales, manifiesta un nivel bajo a medio de familiaridad, aunque percibe que su validez legal y confiabilidad serán factores clave para generar confianza en su uso. Respecto al contenido, considera indispensable incluir información estructural, legal, de servicios básicos y cargas registrales del inmueble. En general, muestra interés en soluciones digitales que brinden confianza, seguridad y respaldo legal, siempre que se asegure la protección de la información y se simplifique el proceso de compraventa.|
 
+**Entrevista 3 - Propietario**
+
+| Campo          | Detalle                |
+|----------------|------------------------|
+| ENTREVISTADOR  | Joaquín Carranza |
+| ENTREVISTADO   | Juan Gutierrez |
+| Fecha          | 21/09/25 |
+| Edad           | 29 |
+| Duración       | 3:26 |
+| Profesión      | Arrendero de inmuebles |
+| Enlace         | [[URL de la entrevista]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191b935_upc_edu_pe/EaF9w8_-wPBDtzfD-b3XyHsBUi835RCvyPh0GEs8m8Mqow?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qv2WE1) |
+| Segmento       | Propietario            |
+| Resumen        |El entrevistado Victor López, un medico jefe de una unidad UCI, considera que al evaluar el estado de un inmueble, los aspectos más relevantes son la condición estructural, la situación legal y la veracidad de la documentación presentada. Reconoce que en el mercado inmobiliario existen riesgos asociados a documentación falsa o alterada, lo que genera desconfianza y demora en las transacciones. En cuanto a los certificados digitales, manifiesta un nivel bajo a medio de familiaridad, aunque percibe que su validez legal y confiabilidad serán factores clave para generar confianza en su uso. Respecto al contenido, considera indispensable incluir información estructural, legal, de servicios básicos y cargas registrales del inmueble. En general, muestra interés en soluciones digitales que brinden confianza, seguridad y respaldo legal, siempre que se asegure la protección de la información y se simplifique el proceso de compraventa.|
+
 **Entrevista 4 - Agente Inmobiliario**
 
 | Campo          | Detalle                |
