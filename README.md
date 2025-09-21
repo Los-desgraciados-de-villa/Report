@@ -232,6 +232,9 @@ flowchart TD
 ### 4.6.3. Software Architecture Components Diagrams
 Componentes dentro del Backend:
 
+<img alt="tb1_Componentes" src="https://github.com/user-attachments/assets/6ce965e4-242e-495a-9b1a-5a83a67d1c4a" />
+
+
 - `CertificateService` (generar/firmar/revocar/versionar)
 - `InspectionService` (gestionar inspecciones y checklist)
 - `LegalVerificationAdapter` (consultas SUNARP, mun.)
