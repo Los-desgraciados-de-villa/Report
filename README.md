@@ -192,7 +192,7 @@ Preguntas:
 | Profesión      | Arrendero de inmuebles |
 | Enlace         | [[URL de la entrevista]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191b935_upc_edu_pe/EaF9w8_-wPBDtzfD-b3XyHsBUi835RCvyPh0GEs8m8Mqow?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qv2WE1) |
 | Segmento       | Propietario            |
-| Resumen        |El entrevistado Victor López, un medico jefe de una unidad UCI, considera que al evaluar el estado de un inmueble, los aspectos más relevantes son la condición estructural, la situación legal y la veracidad de la documentación presentada. Reconoce que en el mercado inmobiliario existen riesgos asociados a documentación falsa o alterada, lo que genera desconfianza y demora en las transacciones. En cuanto a los certificados digitales, manifiesta un nivel bajo a medio de familiaridad, aunque percibe que su validez legal y confiabilidad serán factores clave para generar confianza en su uso. Respecto al contenido, considera indispensable incluir información estructural, legal, de servicios básicos y cargas registrales del inmueble. En general, muestra interés en soluciones digitales que brinden confianza, seguridad y respaldo legal, siempre que se asegure la protección de la información y se simplifique el proceso de compraventa.|
+| Resumen        |El entrevistado considera que lo más importante al evaluar un inmueble es la seguridad legal (que no tenga cargas ni deudas) y el estado físico. Aunque no ha tenido problemas directos con documentación falsa, conoce casos que generan desconfianza. Reconoce la existencia y validez de los certificados digitales, pero aún confía más en documentos físicos. Para él, un certificado debe incluir información sobre hipotecas, embargos, deudas y la titularidad real. Prefiere recibirlos en formato digital, fácil de descargar y compartir. Estaría dispuesto a pagar por este servicio si el costo es razonable y garantiza seguridad. Su mayor preocupación es la protección de sus datos y el riesgo de accesos no autorizados o fraudes.|
 
 **Entrevista 4 - Agente Inmobiliario**
 
@@ -221,6 +221,20 @@ Preguntas:
 | Enlace         | [[URL de la entrevista]](https://youtu.be/f1AL52Cvnes) |
 | Segmento       | Agente Inmobiliario             |
 | Resumen        | Jorge Andrés Santos es un joven de 26 años dedicado a la compraventa de inmuebles residenciales y comerciales. Actualmente requiere documentos como la partida registral de SUNARP, constancia de no adeudo, planos y tasaciones, aunque reconoce que verificarlos es un proceso lento y vulnerable a fraudes. Considera que los certificados digitales verificables serían una gran ventaja porque ahorrarían tiempo, reducirían riesgos y generarían confianza con sus clientes. Le gustaría que incluyan información legal, técnica, estructural y fotográfica. Integraría este servicio antes de publicar inmuebles y en reuniones con notarios o bancos. Para él, la plataforma debe ser fácil de usar, con validación en tiempo real, descarga en PDF e historial de certificados, y afirma que la recomendaría siempre que tenga validez legal.                       |
+
+**Entrevista 6 - Agente Inmobiliario**
+
+| Campo          | Detalle                |
+|----------------|------------------------|
+| ENTREVISTADOR  | Joaquín Carranza |
+| ENTREVISTADO   | Emily Auqui |
+| Fecha          | 20/09/25 |
+| Edad           | 26 |
+| Duración       | 5:23 |
+| Profesión      | Compraventa de inmuebles residenciales y comerciales |
+| Enlace         | [[URL de la entrevista]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191b935_upc_edu_pe/EfTDeDl8SXpPq1pTHT-WL0UB5ZJGyD6szjAq_C-ovY1y5A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=MkDz9z) |
+| Segmento       | Agente Inmobiliario             |
+| Resumen        | La entrevistada solicita actualmente partida registral, HR y PU, planos, copia literal, recibos de servicios y, en propiedades nuevas, licencia y conformidad de obra. Verifica autenticidad principalmente en SUNARP y municipalidades, además de contrastar con visitas físicas. Ve en los certificados digitales una ventaja en ahorro de tiempo y reducción de fraudes. Considera importante que incluyan historial de propietarios, cargas, zonificación, valor referencial y estado de pagos municipales. Integraría este servicio en la captación y negociación de inmuebles para asegurar transparencia. Piensa que la plataforma debe ser fácil de usar, con validación oficial, descargas rápidas, alertas de vencimiento, historial y alta seguridad. Estaría muy dispuesto a recomendarla a clientes, ya que aumentaría la confianza en su gestión como agente.                      |
 
 ### 2.2.3 Análisis de entrevistas
 
