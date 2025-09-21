@@ -194,6 +194,20 @@ Preguntas:
 | Segmento       | Agente Inmobiliario    |
 | Resumen        |                        |
 
+**Entrevista 5 - Agente Inmobiliario**
+
+| Campo          | Detalle                |
+|----------------|------------------------|
+| ENTREVISTADOR  | Juan Manuel Santos |
+| ENTREVISTADO   | Jorge Torres |
+| Fecha          | 20/09/25 |
+| Edad           | 26 |
+| Duración       | 3:48 |
+| Profesión      | Compraventa de inmuebles residenciales y comerciales |
+| Enlace         | [[URL de la entrevista]](https://youtu.be/f1AL52Cvnes) |
+| Segmento       | Agente Inmobiliario             |
+| Resumen        |                        |
+
 ### 2.2.3 Análisis de entrevistas
 
 ---
