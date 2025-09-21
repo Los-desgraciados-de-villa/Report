@@ -36,7 +36,7 @@ Desarrollo de Aplicaciones Open Source<br>
 | Versión | Fecha       | Autor(es)| Descripción de la modificación   |
 |---------|-------------|--------------|----------------------|
 |TB1     | 12/09/25  |Joaquin Enrique Carranza Tesén  | Creacion de la organización y repositorios en GitHub para el desarrollo conjuto del proyecto.|               |
-|TB1     |   |  | |               |
+|TB1     | 15/09/23  |Jhordi Luis Carranza Pérez  |Desarrollo del Lean UX Hypothesis Statements, Lean UX Canvas, Segmentos objetivos, Source Code Style Guide and Conventions, Software Deployment Configuration, Landing Page, Services and Applications Implementation |               |
 |TB1     | 13/09/25 |Miguel Ángel Román | Desarrollo de la Startup, perfiles de integrantes de equipo, ubiquitous Language, Diseño de entrevistas,registro de entrevistas, plantilla para los User Stories |               |
 |TB1     | 15/09/25  |Franco Mauricio López Román  | Desarrollo de antecendentes, UX Process, entrevistas y evidencias de ejecución de la LP|               |
 |TB1     | 14/09/25 |Juan Manuel Santos Torres | Desarollo de los Needfinding, User Personas, User Task Matrix, Empathy Mapping, Big picture event storming |
