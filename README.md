@@ -1,6 +1,23 @@
 # Capítulo III: Requirements Specification
+## 3.1. To-Be Scenario Mapping
 
-## 3.1 User Stories
+* **Segmento 1: Propietarios de inmuebles**
+
+| **Fases**                           | **Publicación y Gestión de Inmuebles**                                                                                   | **Certificación de la Propiedad**                                                                                                 | **Autenticación y Gestión de Usuario**                                                                                         |
+|-------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| **Doing**                           | El propietario registra su inmueble en la plataforma, sube documentos legales y técnicos (planos, escritura, etc.).                 | Envía los documentos a la entidad verificadora y recibe un certificado digital firmado electrónicamente.  | Se registra en la plataforma, valida su identidad y crea un perfil con la información de sus propiedades.  |
+| **Thinking**                         | ¿La información que estoy subiendo es suficiente y clara para que el inmueble sea certificado más rápido?                                      | ¿La certificación aumentará la confianza en mi propiedad y acelerará la venta?                             | ¿La plataforma asegura que mis datos personales y documentos estarán protegidos?                     |
+| **Feeling**                          | Se siente responsable al documentar adecuadamente su propiedad.         | Se siente satisfecho y optimista al obtener el certificado digital que da valor a su inmueble.                      | Se siente tranquilo y confiado al ver que sus datos están protegidos con procesos seguros.            |
+
+* **Segmento 2: Agentes inmobiliarios**
+
+| **Fases**                           | **Consulta de Certificados**                                                                                   | **Presentación de Propiedades**                                                                                                 | **Autenticación y Gestión de Usuario**                                                                                         |
+|-------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| **Doing**                           | El agente busca inmuebles dentro de la plataforma y accede a los certificados digitales verificados.              | Comparte los certificados con clientes mediante enlaces seguros o documentos descargables.      | Se registra en la plataforma como agente autorizado y gestiona su portafolio de propiedades certificadas.  |
+| **Thinking**                         | ¿Este inmueble cuenta con un certificado válido y actualizado que aumente la confianza del comprador?   | ¿Cómo puedo aprovechar esta certificación para cerrar la venta más rápido y con menos objeciones?                                               | ¿La plataforma valida de manera clara mi rol como agente inmobiliario?                              |
+| **Feeling**                          | Se siente respaldado al acceder a información transparente y verificada. | Se siente motivado y confiado al mostrar propiedades certificadas a sus clientes.                           | Se siente reconocido como actor clave en la plataforma y seguro de que sus datos están bien gestionados.                      |
+
+## 3.2 User Stories
 
 Épicas:
 
@@ -29,7 +46,7 @@ Historias de Usuario:
 | US11 | EP01  | Verificar validez de certificado               | Como comprador, quiero verificar en línea la validez de un certificado para confirmar que no ha sido alterado.                                                         | **Escenario 1:** Dado que el comprador ingresa un código de certificado, cuando lo valida, entonces el sistema confirma la autenticidad..<br> **Escenario 2:** Dado que el código es inválido, cuando lo ingresa, entonces el sistema muestra “certificado no encontrado”.          |
 | US12 | EP04  | Filtrar inmuebles con certificado           | Como agente inmobiliario, quiero filtrar inmuebles que ya cuenten con certificado para priorizar opciones seguras.                                    | **Escenario 1:** Dado que selecciona el filtro, cuando consulta inmuebles, entonces el sistema muestra solo los que tienen certificado<br> **Escenario 2:** Dado que ningún inmueble cumple con el filtro, cuando aplica el criterio, entonces el sistema muestra “sin resultados”.                  |
 
-## 3.2. Impact Mapping
+## 3.3. Impact Mapping
 
 | Objetivo                                           | Actores                 | Impactos esperados                                                                 | Funcionalidades asociadas                                                                                              |
 | -------------------------------------------------- | ----------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
@@ -39,7 +56,7 @@ Historias de Usuario:
 | **Optimizar la gestión de inmuebles certificados**     | Agentes inmobiliarios | - Acceso rápido a información confiable. <br> - Aumento en la tasa de cierre de ventas.        | - Consulta de certificados en línea. <br> - Opción de compartir certificados con clientes vía enlace seguro. |
 | **Garantizar trazabilidad y sostenibilidad del sistema**     | Administradores | - Mayor control de certificados emitidos. <br> - Monitoreo de uso de la plataforma.        | - Generación de reportes históricos. <br> - Exportación de métricas en PDF. <br> - Panel de trazabilidad completa. |
 
-## 3.3. Product Backlog
+## 3.4. Product Backlog
 
 | Orden | Épica | Título                                           | Relación con User Story | Prioridad | Story Points <br>(1/2/3/5/8) |
 | ----- | ----- | ------------------------------------------------ | ----------------------- | --------- | ------------ |
