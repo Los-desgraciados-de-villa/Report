@@ -161,13 +161,13 @@ Durante Sprint 1 se desarrollaron funcionalidades fundamentales para facilitar l
 Durante este primer Sprint, se implementó el diseño de la primera version del Landing Page, desplegado en Github Pages. A continuacion, se explicara las secciones importantes.
 
 Sección Nosotros:
-<img src=""/>
+<img src="https://github.com/user-attachments/assets/4be945c4-561a-40ff-94a8-126d8de5573a"/>
 
 Sección Solocitar certificado:
-<img src=""/>
+<img src="https://github.com/user-attachments/assets/f88ac55e-8349-440f-9143-cf150ab4db51"/>
 
 Sección Servicios/Beneficios:
-<img src=""/>
+<img src="https://github.com/user-attachments/assets/75f81891-6e51-4c41-9591-15e08530fd23"/>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 Para el Sprint 1, no se ha trabajado en la documentación de los servicios de la aplicación, ya que el enfoque principal ha sido la creación del Landing Page. Será durante los siguientes Sprints, donde se realizará el desarrollo de la documentación de los servicios
@@ -187,6 +187,8 @@ Para el Sprint 1, no se ha trabajado en la documentación de los servicios de la
 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+
 
 Ahora, se mostraran las evidencias de la colaboración conjunta del equipo durante el desarrollo del Sprint 1
 
