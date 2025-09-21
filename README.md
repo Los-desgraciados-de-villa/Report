@@ -206,7 +206,7 @@ Preguntas:
 | Profesión      | Compraventa de inmuebles residenciales y comerciales |
 | Enlace         | [[URL de la entrevista]](https://youtu.be/f1AL52Cvnes) |
 | Segmento       | Agente Inmobiliario             |
-| Resumen        |                        |
+| Resumen        | Jorge Andrés Santos es un joven de 26 años dedicado a la compraventa de inmuebles residenciales y comerciales. Actualmente requiere documentos como la partida registral de SUNARP, constancia de no adeudo, planos y tasaciones, aunque reconoce que verificarlos es un proceso lento y vulnerable a fraudes. Considera que los certificados digitales verificables serían una gran ventaja porque ahorrarían tiempo, reducirían riesgos y generarían confianza con sus clientes. Le gustaría que incluyan información legal, técnica, estructural y fotográfica. Integraría este servicio antes de publicar inmuebles y en reuniones con notarios o bancos. Para él, la plataforma debe ser fácil de usar, con validación en tiempo real, descarga en PDF e historial de certificados, y afirma que la recomendaría siempre que tenga validez legal.                       |
 
 ### 2.2.3 Análisis de entrevistas
 
