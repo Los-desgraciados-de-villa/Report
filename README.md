@@ -245,9 +245,14 @@ Para el Sprint 1, no se ha trabajado en la documentación de los servicios de la
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
-
-
 Ahora, se mostraran las evidencias de la colaboración conjunta del equipo durante el desarrollo del Sprint 1
+
+<img src="https://github.com/user-attachments/assets/4a0aae76-319c-4d3d-8a94-47cf89b871f4" />
+
+<img src="https://github.com/user-attachments/assets/fb42fe6d-a2e3-4e57-81a9-3d65891a7a91" />
+
+<img src="https://github.com/user-attachments/assets/2cfd96e4-a7fe-40fb-9928-dd77008c847b" />
+
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
