@@ -164,13 +164,13 @@ Los tiempos de espera pueden superar los 15 a 30 días hábiles, con costos asoc
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
-1. Objetivos actuales del producto o sistema
+1. **Objetivos actuales del producto o sistema** <br>
 El objetivo principal del proyecto es diseñar e implementar una plataforma web que permita generar, gestionar y emitir certificados digitales verificables sobre el estado técnico, legal y estructural de los inmuebles. Este sistema busca centralizar la información proveniente de diversas fuentes, como municipalidades, registros públicos y entidades de inspección, garantizando la integridad, autenticidad y trazabilidad de los documentos emitidos. A través de la digitalización y automatización del proceso, la plataforma pretende agilizar las transacciones inmobiliarias, mejorar la confianza entre las partes y contribuir a la transparencia del mercado inmobiliario.
 
-2. Problema que las partes interesadas del negocio quieren abordar
+2. **Problema que las partes interesadas del negocio quieren abordar** <br>
 Actualmente, las partes interesadas —compradores, vendedores, arrendadores, entidades financieras y autoridades— enfrentan procesos lentos, fragmentados y poco confiables para verificar el estado real de un inmueble. Los certificados deben solicitarse manualmente en diferentes instituciones, lo que aumenta los costos operativos, los tiempos de espera y el riesgo de manipulación documental. Además, la falta de estandarización y de mecanismos de validación digital genera desconfianza y dificulta la toma de decisiones informadas en las operaciones inmobiliarias.
 
-3. Solicitud explícita de mejora (sin enmarcar una solución específica)
+3. **Solicitud explícita de mejora** <br>
 Se requiere una mejora significativa en la eficiencia, seguridad y confiabilidad del proceso de certificación de inmuebles, mediante la optimización y digitalización de las etapas de verificación, emisión y validación de la información. La solución deseada debe permitir a las partes interesadas obtener certificados verificables, actualizados y transparentes, reduciendo tiempos, costos y riesgos sin comprometer la validez legal ni la calidad de los datos.
 
 #### 1.2.2.2. Lean UX Assumptions
