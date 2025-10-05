@@ -164,14 +164,14 @@ Los tiempos de espera pueden superar los 15 a 30 días hábiles, con costos asoc
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
-**Quiénes son los usuarios**<br>
-Los principales usuarios de esta plataforma son compradores y vendedores de inmuebles, arrendadores y arrendatarios, instituciones financieras, empresas de corretaje inmobiliario y entidades regulatorias. Todos ellos participan en distintos procesos relacionados con la compraventa, alquiler, financiamiento o supervisión de bienes inmuebles y, por lo tanto, requieren información confiable, actualizada y verificable sobre el estado legal, técnico y estructural de las propiedades.<br>
-**Qué necesitan**<br>
-Estos usuarios necesitan un mecanismo unificado y confiable que les permita obtener certificados digitales de estado de inmuebles, que integren de forma clara información proveniente de registros públicos, municipalidades, inspecciones técnicas y otros actores relevantes. Además, requieren que dichos documentos estén disponibles de manera rápida, accesible y verificable en línea, con mecanismos que garanticen su autenticidad, integridad y vigencia.<br>
-**Por qué lo necesitan**<br>
-Actualmente, el proceso de verificación de información de un inmueble está compuesto por una serie de trámites manuales, presenciales y fragmentados, realizados en diferentes instituciones, lo que genera demoras, altos costos y riesgo de errores o inconsistencias. A esto se suma la existencia de fraudes documentales frecuentes en el mercado inmobiliario, como falsificación de certificados o manipulación de informes técnicos, lo que afecta la confianza de las partes involucradas y eleva la probabilidad de conflictos legales. En un contexto donde la transparencia es clave para la toma de decisiones, los usuarios requieren una solución que elimine estas barreras.<br>
-**Cómo la solución satisface la necesidad**<br>
-La plataforma propuesta ofrecerá un sistema web que centraliza la generación, gestión y emisión de certificados digitales sobre el estado de los inmuebles. Estos certificados estarán protegidos mediante firmas electrónicas, trazabilidad digital y mecanismos de validación en línea, lo que asegurará que no puedan ser manipulados ni falsificados. La solución permitirá que tanto compradores como vendedores, arrendadores, instituciones financieras y autoridades accedan a un documento seguro, estandarizado y verificable en tiempo real, lo que aumentará la transparencia, reducirá costos operativos y mejorará la eficiencia en las transacciones inmobiliarias.
+1. Objetivos actuales del producto o sistema
+El objetivo principal del proyecto es diseñar e implementar una plataforma web que permita generar, gestionar y emitir certificados digitales verificables sobre el estado técnico, legal y estructural de los inmuebles. Este sistema busca centralizar la información proveniente de diversas fuentes, como municipalidades, registros públicos y entidades de inspección, garantizando la integridad, autenticidad y trazabilidad de los documentos emitidos. A través de la digitalización y automatización del proceso, la plataforma pretende agilizar las transacciones inmobiliarias, mejorar la confianza entre las partes y contribuir a la transparencia del mercado inmobiliario.
+
+2. Problema que las partes interesadas del negocio quieren abordar
+Actualmente, las partes interesadas —compradores, vendedores, arrendadores, entidades financieras y autoridades— enfrentan procesos lentos, fragmentados y poco confiables para verificar el estado real de un inmueble. Los certificados deben solicitarse manualmente en diferentes instituciones, lo que aumenta los costos operativos, los tiempos de espera y el riesgo de manipulación documental. Además, la falta de estandarización y de mecanismos de validación digital genera desconfianza y dificulta la toma de decisiones informadas en las operaciones inmobiliarias.
+
+3. Solicitud explícita de mejora (sin enmarcar una solución específica)
+Se requiere una mejora significativa en la eficiencia, seguridad y confiabilidad del proceso de certificación de inmuebles, mediante la optimización y digitalización de las etapas de verificación, emisión y validación de la información. La solución deseada debe permitir a las partes interesadas obtener certificados verificables, actualizados y transparentes, reduciendo tiempos, costos y riesgos sin comprometer la validez legal ni la calidad de los datos.
 
 #### 1.2.2.2. Lean UX Assumptions
  **Sobre los usuarios y sus necesidades**<br>
