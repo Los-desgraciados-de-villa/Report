@@ -21,13 +21,29 @@
 
 Épicas:
 
-| Epic ID | Título                         | Descripción                                                                                                                                        |
-| ------- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| EP01    | Emisión de certificados verificables    | Como comprador de un inmueble, quiero acceder a certificados digitales verificables para tener seguridad sobre el estado legal, técnico y estructural de la propiedad.                     |
-| EP02    | Gestión de información de inmuebles  | Como vendedor de un inmueble, quiero subir la información técnica y legal de mi propiedad en la plataforma para agilizar el proceso de certificación.     |
-| EP03    | Validación en talleres y entidades    | Como entidad verificadora, quiero validar la información de los inmuebles en la plataforma para garantizar la autenticidad y credibilidad de los certificados. |
-| EP04    | Transparencia en las transacciones | Como agente inmobiliario, quiero mostrar certificados digitales a mis clientes para generar confianza y cerrar transacciones con mayor rapidez.                      |
-| EP05    | Reportes y trazabilidad | Como administrador de la plataforma, quiero generar reportes sobre la emisión y uso de certificados para garantizar la trazabilidad y transparencia del proceso.                      |
+| Epic ID | Título                                      | Descripción                                                                                                                                          |
+| ------- | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| EP01    | Emisión de certificados verificables        | Como comprador de un inmueble, quiero acceder a certificados digitales verificables para tener seguridad sobre el estado legal, técnico y estructural de la propiedad. |
+| EP02    | Gestión de información de inmuebles         | Como vendedor de un inmueble, quiero subir la información técnica y legal de mi propiedad en la plataforma para agilizar el proceso de certificación. |
+| EP03    | Validación en talleres y entidades          | Como entidad verificadora, quiero validar la información de los inmuebles en la plataforma para garantizar la autenticidad y credibilidad de los certificados. |
+| EP04    | Transparencia en las transacciones          | Como agente inmobiliario, quiero mostrar certificados digitales a mis clientes para generar confianza y cerrar transacciones con mayor rapidez. |
+| EP05    | Reportes y trazabilidad                     | Como administrador de la plataforma, quiero generar reportes sobre la emisión y uso de certificados para garantizar la trazabilidad y transparencia del proceso. |
+| EP06    | Notificaciones y alertas                    | Como usuario de la plataforma, quiero recibir notificaciones automáticas sobre el estado de los certificados y documentos para mantenerme informado. |
+| EP07    | Autenticación segura                        | Como usuario, quiero iniciar sesión y validar mi identidad de forma segura para proteger mi información. |
+| EP08    | Gestión de cuentas de usuario               | Como administrador, quiero gestionar cuentas y permisos para controlar el acceso y roles dentro de la plataforma. |
+| EP09    | Historial de acciones y auditoría           | Como administrador, quiero visualizar el historial de acciones realizadas para garantizar trazabilidad y seguridad. |
+| EP10    | OCR y validación automática de documentos   | Como vendedor, quiero que la plataforma reconozca automáticamente los datos de los documentos para agilizar el proceso de certificación. |
+| EP11    | Recordatorios automáticos                   | Como comprador y vendedor, quiero recibir recordatorios sobre fechas importantes para no perder plazos en el proceso de certificación. |
+| EP12    | Panel de control                            | Como administrador, quiero contar con un panel visual con métricas e indicadores clave para tomar mejores decisiones. |
+| EP13    | Filtros y búsqueda avanzada                 | Como usuario, quiero filtrar certificados e inmuebles por múltiples criterios para encontrar información fácilmente. |
+| EP14    | Reenvío y duplicado de certificados         | Como agente inmobiliario, quiero reenviar o duplicar certificados válidos para agilizar transacciones similares. |
+| EP15    | Módulo de soporte y feedback                | Como usuario, quiero dejar consultas o reportar problemas para recibir asistencia rápidamente. |
+| EP16    | Validación multi-entidad                    | Como entidad verificadora, quiero validar información en conjunto con otras entidades para reforzar la credibilidad del certificado. |
+| EP17    | Firma digital multi-actor                   | Como entidad verificadora, quiero que varios actores puedan firmar un certificado digital para dar mayor respaldo legal. |
+| EP18    | Almacenamiento en la nube                   | Como administrador, quiero almacenar documentos y certificados en la nube para mejorar el acceso y la seguridad de la información. |
+| EP19    | Generación de estadísticas automáticas      | Como administrador, quiero que el sistema genere estadísticas sobre procesos, tiempos y certificados para optimizar la gestión. |
+| EP20    | Exportación y compatibilidad de datos       | Como usuario, quiero exportar certificados e información en formatos estándar (PDF, Excel, CSV) para utilizarlos fuera de la plataforma. |
+
 
 Historias de Usuario:
 
