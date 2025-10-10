@@ -122,5 +122,7 @@ Historias de Usuario:
 | 25    | EP16  | Validación multi-entidad                         | US25                    | Alta      | 8            |
 | 26    | EP17  | Firma multi-actor                                | US26                    | Alta      | 5            |
 | 27    | EP18  | Almacenamiento en la nube                         | US27                    | Alta      | 4           |
-
+| 28    | EP19  | Estadísticas automáticas                          | US28                    | Media     | 5            |
+| 29    | EP20  | Exportación de datos                              | US29                    | Alta      | 5            |
+| 30    | EP20  | Exportación masiva                                | US30                    | Media     | 5            |
 
