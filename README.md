@@ -93,18 +93,34 @@ Historias de Usuario:
 
 ## 3.4. Product Backlog
 
-| Orden | Épica | Título                                           | Relación con User Story | Prioridad | Story Points <br>(1/2/3/5/8) |
-| ----- | ----- | ------------------------------------------------ | ----------------------- | --------- | ------------ |
-| 1     | EP01  | Emisión de certificados digitales verificables         | US01                    | Alta      | 8            |
-| 2     | EP01  | Descarga de certificado en PDF con sello digital                | US02                    | Alta      | 5            |
-| 3     | EP01  | Verificación online de validez de certificado        | US11                    | Alta     | 5            |
-| 4     | EP02  | Subida de documentos legales y técnicos        | US03                    | Alta      | 8            |
-| 5     | EP02  | Edición y actualización de información técnica                       | US04                    | Media      | 5            |
-| 6     | EP03  | Validación de documentos por entidad verificadora       | US05                    | Alta      | 8            |
-| 7     | EP03  | Firma digital de certificados               | US06                    | Alta      | 5            |
-| 8     | EP04  | Consulta de certificados disponibles                  | US07                    | Alta      | 5            |
-| 9     | EP04  | Compartir certificado con cliente vía enlace | US08                    | Media     | 3            |
-| 10    | EP03  | Filtro de inmuebles con certificado              | US12                    | Media     | 3            |
-| 11    | EP05  | Generación de reportes de certificados emitidos  | US09                    | Media     | 5            |
-| 12    | EP05  | Consulta del historial de verificaciones                     | US10                    | Baja      | 3            |
+| Orden | Épica | Título                                           | Relación con User Story | Prioridad | Story Points |
+| ----- | ----- | ----------------------------------------------- | ----------------------- | --------- | ------------ |
+| 1     | EP01  | Emisión de certificados digitales verificables  | US01                    | Alta      | 8            |
+| 2     | EP01  | Descarga de certificado en PDF                  | US02                    | Alta      | 5            |
+| 3     | EP01  | Verificación online de validez de certificado   | US11                    | Alta      | 5            |
+| 4     | EP02  | Subida de documentos legales y técnicos         | US03                    | Alta      | 8            |
+| 5     | EP02  | Edición y actualización de información técnica  | US04                    | Media     | 5            |
+| 6     | EP03  | Validación de documentos                        | US05                    | Alta      | 8            |
+| 7     | EP03  | Firma digital                                   | US06                    | Alta      | 5            |
+| 8     | EP04  | Consulta de certificados disponibles            | US07                    | Alta      | 5            |
+| 9     | EP04  | Compartir certificado con cliente               | US08                    | Media     | 3            |
+| 10    | EP04  | Filtrar inmuebles con certificado               | US12                    | Media     | 3            |
+| 11    | EP05  | Generar reportes de certificados                | US09                    | Media     | 5            |
+| 12    | EP05  | Consultar historial de verificaciones          | US10                    | Baja      | 3            |
+| 13    | EP06  | Notificaciones de estado                        | US13                    | Alta      | 5            |
+| 14    | EP06  | Configuración de alertas                        | US14                    | Media     | 3            |
+| 15    | EP07  | Iniciar sesión segura                           | US15                    | Alta      | 5            |
+| 16    | EP07  | Recuperar contraseña                            | US16                    | Media     | 3            |
+| 17    | EP08  | Gestión de roles y permisos                      | US17                    | Alta      | 5            |
+| 18    | EP09  | Historial de acciones                            | US18                    | Alta      | 5            |
+| 19    | EP10  | OCR para extracción de datos                      | US19                    | Alta      | 8            |
+| 20    | EP11  | Recordatorios automáticos                        | US20                    | Media     | 3            |
+| 21    | EP12  | Panel de control                                 | US21                    | Alta      | 8            |
+| 22    | EP13  | Filtros y búsqueda avanzada                      | US22                    | Alta      | 5            |
+| 23    | EP14  | Reenvío de certificados                          | US23                    | Media     | 3            |
+| 24    | EP15  | Soporte y feedback                               | US24                    | Media     | 3            |
+| 25    | EP16  | Validación multi-entidad                         | US25                    | Alta      | 8            |
+| 26    | EP17  | Firma multi-actor                                | US26                    | Alta      | 5            |
+| 27    | EP18  | Almacenamiento en la nube                         | US27                    | Alta      | 4           |
+
 
