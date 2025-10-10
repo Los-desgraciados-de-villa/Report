@@ -1428,3 +1428,73 @@ Ahora, se mostraran las evidencias de la colaboración conjunta del equipo duran
 <img src="https://github.com/user-attachments/assets/fb42fe6d-a2e3-4e57-81a9-3d65891a7a91" />
 
 <img src="https://github.com/user-attachments/assets/2cfd96e4-a7fe-40fb-9928-dd77008c847b" />
+
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2.
+| Criterio                     | Detalle                                                                                                                            |
+| :--------------------------- | :--------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint #**                 | Sprint 2                                                                                                                           |
+| **Sprint Planning Background** |                                                                                                                                    |
+| Date                         | 10/10/25                                                                                                                         |
+| Time                         | 5:00pm                                                                                                                        |
+| Location                     | Reunión Virtual en Meet                                                                      |
+| Prepared By                  | Franco López                                                                                             |
+| Attendees (to planning meeting) | Joaquin Carranza, Miguel Angel Román, Franco López, Jhordi Carranza, Juan Manuel Santos      |
+| Sprint n - 2 Review Summary  |Se completo las correciones dabas para la tb1 y avance primerizo del Frontend. |
+| Sprint n - 2 Retrospective Summary | Se logró cumplir con el objetivo del Sprint 1 |
+| **Sprint Goal & User Stories** |                                                                                                                                    |
+| Sprint 2 Goal                | Nuestro enfoque es desarrollar la primera versión de la aplicacion web y la elaboración de las correciones dabas para la tb1, como equipo hemos llegado a la conclusión la importancia del cumplimiento del la mejora continua.                                                                    |
+| Sprint 1 Velocity            | 4       |
+| **Sum of Story Points**      | 10                                |
+
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+| Team Member (Last Name, First Name) | GitHub Username | UI/UX Design <br> Leader (L) / Collaborator (C) | Landing Design <br> Leader (L) / Collaborator (C) |
+| :---------------------------------- | :-------------- | :------------------------------------------------: | :------------------------------------------------: |
+| Lopez Roman, Franco Mauricio        | Moris0306       | C                                                  | C                                                  |
+| Carranza Tesen, Joaquin Enrique     | thepima         |L                                                   |L                                                   |
+| Román López, Miguel Angel Junior    | MiguelAngel271004| C                                                  | C                                                  |
+| Santos Torres, Juan Manuel          | JuanManuel312   | C                                                  | C                                                  |
+| Carranza Pérez, Jhordi Luis         | CarPer2002      | C                                                  | C                                                  |
+
+#### 5.2.2.3. Sprint Backlog 2.
+
+| **Work-Item / Task** | **Title**                                     | **Description**                                                                 | **Estimation (Hours)** | **Assigned To**         | **Status** |
+|----------------------|-----------------------------------------------|---------------------------------------------------------------------------------|------------------------|-------------------------|------------|
+| T01 | Crea Home Page | Crear e integrar una pagina de bienvenida para la aplicación    | 6                      | Joaquin Carranza     | Done       |
+| T02 | Crear Login    | Implementar un area donde el usuario pueda ingresar su cuenta y datos | 3                      | Franco Mauricio López   | Done       |
+| T03 | Crear Register | Desarrollar la interfaz para registrar un nuevo usuario            | 5                      |    | Franco Mauricio López      |
+| T04 | Integrar datos del backend                    | Conectar la vista con los datos reales provenientes del backend                  | 4                      | Jhordi Carranza      | To Do      |
+| T05 | Implementar sección de certificación | Crear la sección donde se muestre el sello de certificación en la web            | 4                      | Jhordi Carranza | To Do      |
+| T06 | Validar visualización de certificación | Asegurar que el sello se muestre correctamente en todos los dispositivos         | 3                      | Miguel Angel Román  | To Do      |
+| T07 | Crear módulo de historial                     | Desarrollar el módulo para que los usuarios consulten su historial de inspecciones | 5                      | Miguel Angel Román | Done       |
+| T08 | Pruebas de usabilidad del historial           | Realizar pruebas para asegurar la facilidad de uso del historial                 | 3                      | Juan Manuel Santos      | Done       |
+| T09 | Implementar carga masiva                      | Desarrollar la funcionalidad para registrar varios vehículos a la vez            | 6                      | Juan Manuel Santos | To Do      |
+| T10 | Validar formato de archivos                   | Implementar validaciones para los archivos de carga masiva                       | 3                      | Joaquin Carranza | To Do      |
+
+
+#### 5.2.2.4. Development Evidence for Sprint Review.
+
+| Repository                                                            | Branch   | Commit Message                                                | Commit Message Body                                           | Commit on (Date) |
+|-----------------------------------------------------------------------|----------|---------------------------------------------------------------|---------------------------------------------------------------|------------------|
+| [CertiInmuebles-Frontend]() | main  | feat(dashboard): add new components for dashboard UI. | - | 09/10/2025 |
+| [CertiInmuebles-Frontend]() | main  | feat(login): implement login functionality with form validation and session .  | - | 09/10/2025 |
+| [CertiInmuebles-Frontend]() | main  | feat(register): add user data. | - | 09/10/2025 |
+| [CertiInmuebles-Frontend]() | main  | feat(report): add sprint 2 information to report. | - | 10/10/2025 |
+| [CertiInmuebles-Frontend]() | main  | feat(landing): additional info to landing page. | - | 10/10/2025 |
+| [CertiInmuebles-Frontend]() | main  | feat: add routes page for navigation. | - | 10/10/2025 |
+| [CertiInmuebles-Frontend]() | main  | merge: pushing frontend v1.1. | - | 10/10/2025 |
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+Se implemento en este Segundo Sprint, el diseño de la primera version de la Aplicacion Web, desplegado en Github Pages. A continuacion, Se presentaran algunas evidencias
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+Para el Sprint 2, no se ha trabajado en la documentación de los servicios de la aplicación CertiInmuebles, ya que el enfoque principal ha sido la creación de la aplicación web. No obstante, se tiene previsto desarrollar la documentación de los servicios en los próximos sprints.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+Para la entrega del Sprint 2, se ha lanzado la versión inicial de la aplicación web, la cual ha sido publicada en Github Pages. A continuación, se presentan las evidencias del despliegue de dicha página.
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
