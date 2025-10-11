@@ -1476,25 +1476,35 @@ Ahora, se mostraran las evidencias de la colaboración conjunta del equipo duran
 
 | Repository                                                            | Branch   | Commit Message                                                | Commit Message Body                                           | Commit on (Date) |
 |-----------------------------------------------------------------------|----------|---------------------------------------------------------------|---------------------------------------------------------------|------------------|
-| [CertiInmuebles-Frontend]() | main  | feat(dashboard): add new components for dashboard UI. | - | 09/10/2025 |
-| [CertiInmuebles-Frontend]() | main  | feat(login): implement login functionality with form validation and session .  | - | 09/10/2025 |
-| [CertiInmuebles-Frontend]() | main  | feat(register): add user data. | - | 09/10/2025 |
-| [CertiInmuebles-Frontend]() | main  | feat(report): add sprint 2 information to report. | - | 10/10/2025 |
-| [CertiInmuebles-Frontend]() | main  | feat(landing): additional info to landing page. | - | 10/10/2025 |
-| [CertiInmuebles-Frontend]() | main  | feat: add routes page for navigation. | - | 10/10/2025 |
-| [CertiInmuebles-Frontend]() | main  | merge: pushing frontend v1.1. | - | 10/10/2025 |
+| [CertiInmuebles-Frontend](https://github.com/UPC-PRE-202502-1ASI0730-7429-CertiDev/CertiDev---Frontend) | main  | feat(dashboard): add new components for dashboard UI. | - | 09/10/2025 |
+| [CertiInmuebles-Frontend](https://github.com/UPC-PRE-202502-1ASI0730-7429-CertiDev/CertiDev---Frontend) | main  | feat(login): implement login functionality with form validation and session .  | - | 09/10/2025 |
+| [CertiInmuebles-Frontend](https://github.com/UPC-PRE-202502-1ASI0730-7429-CertiDev/CertiDev---Frontend) | main  | feat(register): add user data. | - | 09/10/2025 |
+| [CertiInmuebles-Frontend](https://github.com/UPC-PRE-202502-1ASI0730-7429-CertiDev/CertiDev---Frontend) | main  | feat(report): add sprint 2 information to report. | - | 10/10/2025 |
+| [CertiInmuebles-Frontend](https://github.com/UPC-PRE-202502-1ASI0730-7429-CertiDev/CertiDev---Frontend) | main  | feat(landing): additional info to landing page. | - | 10/10/2025 |
+| [CertiInmuebles-Frontend](https://github.com/UPC-PRE-202502-1ASI0730-7429-CertiDev/CertiDev---Frontend) | main  | feat: add routes page for navigation. | - | 10/10/2025 |
+| [CertiInmuebles-Frontend](https://github.com/UPC-PRE-202502-1ASI0730-7429-CertiDev/CertiDev---Frontend) | main  | merge: pushing frontend v1.1. | - | 10/10/2025 |
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
 Se implemento en este Segundo Sprint, el diseño de la primera version de la Aplicacion Web, desplegado en Github Pages. A continuacion, Se presentaran algunas evidencias
+![Execution1](https://github.com/user-attachments/assets/6fd515df-1e9d-4c76-8835-5fda488ce320)
+![Execution2](https://github.com/user-attachments/assets/937d0477-edac-4d56-8061-93399eab1115)
+![Execution3](https://github.com/user-attachments/assets/bd23c57f-2827-4ac4-ad43-45a3fb3126e1)
+![Execution4](https://github.com/user-attachments/assets/8fa7d634-adc3-42ab-a67d-520cacd6c5e9)
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
 Para el Sprint 2, no se ha trabajado en la documentación de los servicios de la aplicación CertiInmuebles, ya que el enfoque principal ha sido la creación de la aplicación web. No obstante, se tiene previsto desarrollar la documentación de los servicios en los próximos sprints.
 
+
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
 Para la entrega del Sprint 2, se ha lanzado la versión inicial de la aplicación web, la cual ha sido publicada en Github Pages. A continuación, se presentan las evidencias del despliegue de dicha página.
+![Deployment1](https://github.com/user-attachments/assets/827f09a2-5ce1-4ad6-b6f6-4ed7229eea21)
+
+![Deployment2](https://github.com/user-attachments/assets/def61fb3-b5f9-470b-ab26-db9b8cfb32dc)
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
+<img alt="Evidence1" src="https://github.com/user-attachments/assets/f97a032c-3980-44e2-9a48-8337061ac0d1" />
+<img alt="Evidence2" src="https://github.com/user-attachments/assets/1b6f5032-e3b0-45bf-8f27-d5b35d93b697" />
 
