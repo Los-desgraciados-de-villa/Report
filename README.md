@@ -836,30 +836,24 @@ Implementar sugerencias automáticas (autocomplete) y control de fuzzy matching.
 - Footer con enlaces legales, contacto, y documentación técnica (API).
 - Sidebar en paneles internos con secciones: Solicitudes, Inspecciones, Certificados, Usuarios, Integraciones, Auditoría.
 
----
-
 ## 4.3. Landing Page UI Design
 
-> Aquí entrego wireframe + mockup conceptual (para pasar a Figma). Debes implementar estos frames en Figma según la guía de prototipado más abajo.
+### 4.3.1. Landing Page Wireframe 
+<img width="1159" height="1158" alt="Captura de pantalla 2025-10-10 201933" src="https://github.com/user-attachments/assets/cf8323c9-73bd-4144-9fbd-91abb3e3721a" />
+<img width="1154" height="858" alt="Captura de pantalla 2025-10-10 202005" src="https://github.com/user-attachments/assets/2223e5ff-3118-4dd4-b0b6-f4027b93aea1" />
+<img width="1151" height="491" alt="Captura de pantalla 2025-10-10 202018" src="https://github.com/user-attachments/assets/1b600b86-b742-4c0e-83e3-1d851f0ffa33" />
+<img width="1155" height="823" alt="Captura de pantalla 2025-10-10 202036" src="https://github.com/user-attachments/assets/a968b301-894d-4984-bbbc-8f72d5596205" />
+<img width="1159" height="529" alt="Captura de pantalla 2025-10-10 202051" src="https://github.com/user-attachments/assets/b6dd86dd-1587-4f06-91cf-2a52ee1d1413" />
+<img width="1158" height="1058" alt="Captura de pantalla 2025-10-10 202114" src="https://github.com/user-attachments/assets/32ada1e0-8253-49c2-8c0d-e4ebf1e2cb24" />
+<img width="1157" height="545" alt="Captura de pantalla 2025-10-10 202132" src="https://github.com/user-attachments/assets/14d1184e-ce23-48f0-ae64-4eea3606794f" />
 
-### 4.3.1. Landing Page Wireframe (estructura)
-1. **Header**: Logo | Search (input) | Botones: “Generar certificado”, “Verificar certificado”, “Login”
-2. **Hero**: Título grande + subtítulo + CTA primario “Generar solicitud” + CTA secundario “Verificar certificado” | Imagen o ilustración de inmueble
-3. **Cómo funciona (3 pasos)**:
-   - Paso 1: Solicita → Paso 2: Inspección/Trazabilidad → Paso 3: Certificado verificable (QR)
-4. **Beneficios**: tarjetas (Transparencia, Rapidez, Validación legal)
-5. **Demo / Video**: mini demo (30–60s) o slider de screenshots
-6. **Testimonios / Socios**: logos de notarías / bancos (si aplica)
-7. **FAQ** / Contacto
-8. **Footer**: enlaces legales, API docs, redes y contacto.
-
-### 4.3.2. Landing Page Mock-up (descripción visual)
-- Layout: 12-column grid, hero full-width, cards with subtle shadow, rounded corners (8px).
-- CTA colores: Primary (`--color-primary`) para acciones críticas.
-- Tipografía H1: Inter 36 bold; body 16 regular.
-- Accesibilidad: botones grandes (min-height 44px), touch targets para móvil.
-
----
+### 4.3.2. Landing Page Mock-up 
+<img width="693" height="385" alt="LandingPage1" src="https://github.com/user-attachments/assets/79b2234c-2c2d-45c2-9a01-a82aeda2f1a5" />
+<img width="692" height="341" alt="LandingPage2" src="https://github.com/user-attachments/assets/ac52b43d-0330-4f71-bf29-7745b128f1e6" />
+<img width="692" height="494" alt="LandingPage3" src="https://github.com/user-attachments/assets/a4e87c3e-bcee-4228-99e4-b5c1f13c792f" />
+<img width="907" height="1073" alt="LandingPage4" src="https://github.com/user-attachments/assets/8f6e5924-9e28-4e8d-aabe-a620506d75ca" />
+<img width="726" height="1063" alt="LandingPage5" src="https://github.com/user-attachments/assets/221d195d-d4c7-4e3e-bdf2-6121d160e1db" />
+<img width="726" height="354" alt="LandingPage6" src="https://github.com/user-attachments/assets/60b413b6-f3c2-4385-b66e-33ace7355461" />
 
 ## 4.4. Web Applications UX/UI Design
 
