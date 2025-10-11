@@ -848,32 +848,11 @@ flowchart TD
 
 ---
 
-## 4.5. Web Applications Prototyping (Figma: cómo organizar y entregables)
+## 4.5. Web Applications Prototyping 
 
-**Archivo Figma - estructura recomendada**
-- File: `CertiInmueble - Product Design`
-  - Page: `00 Tokens` (colores, tipografías, spacings)
-  - Page: `01 Components` (botones, cards, inputs, modals)
-  - Page: `02 Landing` (frames desktop / mobile)
-  - Page: `03 App` (Dashboard, Detail, Inspector)
-  - Page: `04 Wireflows`
-  - Page: `05 Prototype` (interacciones / links)
+<img width="1592" height="1130" alt="Captura de pantalla 2025-10-10 225545" src="https://github.com/user-attachments/assets/2dc787ef-6b40-4d38-8cd3-bf1c8459ce6b" />
+<img width="1596" height="1134" alt="Captura de pantalla 2025-10-10 225609" src="https://github.com/user-attachments/assets/4b9546e8-ac8d-4fd1-b2fa-34f49493e57f" />
 
-**Component library**
-- Crear componentes para cada elemento (Auto Layout).
-- Usar variants para botones (primary/secondary/disabled).
-- Documentar tokens dentro del archivo.
-
-**Prototyping**
-- Prototipo clickable: validar los flujos: crear solicitud → inspección → publicar certificado → verificación.
-- Export assets: SVG para iconos, PNG/JPG para imágenes. Exportar PDF del certificado (A4).
-
-**Entregables Figma (para repo)**
-- Enlace al archivo Figma público (o compartir link de archivo/embed).
-- PNGs de mockups en `assets/mockups/`
-- Un archivo `figma_export_readme.md` con links a frames y explicación de componentes.
-
----
 
 ## 4.6. Domain-Driven Software Architecture
 
