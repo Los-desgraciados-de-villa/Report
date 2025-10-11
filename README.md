@@ -726,64 +726,16 @@ Historias de Usuario:
 ### 4.1.1. General Style Guidelines
 **Producto:** CertiInmueble  
 **Brand Promise:** Transparencia, confianza y trazabilidad en transacciones inmobiliarias mediante certificados digitales verificables.  
-**Tono comunicacional:** Profesional, cercano, claro y técnico cuando aplica. Evitar jerga legal sin explicación.
+**Tono comunicacional:** Profesional, cercano, claro y técnico cuando aplica. 
 
-**Valores visuales:**
-- Confianza → colores sobrios y contrastes altos donde importe (estado legal/alertas).
-- Legibilidad → tipografías sans-serif con buena legibilidad a pantalla y móvil.
-- Jerarquía → uso consistente de tamaños de tipografía, cards y iconografía.
-- Accesibilidad → contrast ratio ≥ 4.5:1 para texto normal; navegación por teclado y ARIA en componentes.
+<img width="889" height="604" alt="Captura de pantalla 2025-10-10 202537" src="https://github.com/user-attachments/assets/eede4642-c52b-49b1-9461-cc51285a0231" />
+<img width="894" height="628" alt="Captura de pantalla 2025-10-10 202548" src="https://github.com/user-attachments/assets/81612270-a077-4a4a-aef8-de35d171de41" />
+<img width="892" height="568" alt="Captura de pantalla 2025-10-10 202601" src="https://github.com/user-attachments/assets/ca7e8eed-3d81-4688-8a36-4241929a2446" />
 
-**Paleta sugerida (tokens):**
-- Primary: `#0B4F6C` (azul profundo)
-- Secondary: `#2E8B57` (verde moderado)
-- Accent: `#F2A365` (naranja suave)
-- Neutral 900: `#0F1724` (texto principal)
-- Neutral 100: `#F7FAFC` (fondo claro)
-- Danger: `#D9534F` (alertas legales / revocaciones)
-
-**Tipografías:**
-- Inter (primaria): para interfaces y títulos.
-- Open Sans (secundaria): para cuerpo y documentos.
-Tamaños base (desktop): H1 36px, H2 28px, H3 22px, Body 16px, Small 14px.
-
-**Iconografía y fotografías:**
-- Iconos lineales con peso medio.
-- Fotografías: imágenes reales de inmuebles (alta resolución) y diagramas/tomas focalizadas (plano, fachada, grietas) con metadatos EXIF como evidencia.
-
-**Botones y estados:**
-- Primary CTA: fondo Primary + texto blanco.
-- Secondary: borde Primary transparent background.
-- Disabled: 30% opacity.
-- Microcopy: usar verbos claros (“Verificar”, “Descargar certificado”, “Solicitar inscripción”).
-
----
 
 ### 4.1.2. Web Style Guidelines 
-**Design tokens (ejemplos CSS variables):**
-```css
-:root {
-  --color-primary: #0B4F6C;
-  --color-secondary: #2E8B57;
-  --color-accent: #F2A365;
-  --color-neutral-900: #0F1724;
-  --color-neutral-100: #F7FAFC;
-  --radius-md: 8px;
-  --shadow-sm: 0 1px 3px rgba(0,0,0,0.08);
-  --font-sans: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
-}
-```
 
-**Componentes clave (atomic):**
-- Header (logo + search de inmuebles por dirección/SUNARP + login).
-- Hero card (buscar inmueble por ID catastral o dirección).
-- Certificate card (miniatura del certificado con QR y estado).
-- Evidence gallery (fotos, PDF, vídeo).
-- Timeline/Historial (versiones del certificado).
-- Modal de verificación (mostrar hash, firma, sello de tiempo).
-- Panel administrativo (gestión de solicitudes, revisiones, revocaciones).
-
----
+<img width="1304" height="919" alt="Captura de pantalla 2025-10-10 202808" src="https://github.com/user-attachments/assets/b50b44e5-2b41-4d0a-b177-dac0469747ac" />
 
 ## 4.2. Information Architecture
 
